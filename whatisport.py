@@ -19,7 +19,7 @@ def readPorts():
 					udp_port = {port.strip(): descr.strip()}
 					udp_ports.update(udp_port)
 	except Exception, e:	
-		print "[-] Erro ao ler ficheiro all_ports.txt: " + str(e) 
+		print "[-] Erro ao ler ficheiro all_ports.csv: " + str(e) 
 	return tcp_ports, udp_ports
 
 def getPort(protocol, port, all_tcp_ports, all_udp_ports):
