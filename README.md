@@ -7,7 +7,7 @@ The ports are based on wikipedia TCP and UDP ports list @ http://en.wikipedia.or
 
 Usage
 =====
-python whatisport.py <type> <port/descr>
+python whatisport.py \<type\> \<port/descr\>
 
 Usable types:
   TCP
