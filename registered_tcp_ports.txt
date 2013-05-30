@@ -1,0 +1,993 @@
+1024 	TCP 	UDP 	Reserved[1] 	Official
+1025 	TCP 		NFS or IIS or Teradata 	Unofficial
+1026 	TCP 		Often used by Microsoft DCOM services 	Unofficial
+1029 	TCP 		Often used by Microsoft DCOM services 	Unofficial
+1058 	TCP 	UDP 	nim, IBM AIX Network Installation Manager (NIM) 	Official
+1059 	TCP 	UDP 	nimreg, IBM AIX Network Installation Manager (NIM) 	Official
+1080 	TCP 		SOCKS proxy 	Official
+1085 	TCP 	UDP 	WebObjects 	Official
+1098 	TCP 	UDP 	rmiactivation, RMI Activation 	Official
+1099 	TCP 	UDP 	rmiregistry, RMI Registry 	Official
+1109 	TCP 	UDP 	Reserved[1] 	Official
+1109 	TCP 		Kerberos Post Office Protocol (KPOP) 	Unofficial
+1110 		UDP 	EasyBits School network discovery protocol (for Intel's CMPC platform) 	Unofficial
+1119 	TCP 	UDP 	Used by some Blizzard games[41] 	Unofficial
+1140 	TCP 	UDP 	AutoNOC protocol 	Official
+1167 		UDP 	phone, conference calling 	Unofficial
+1169 	TCP 	UDP 	Tripwire 	Official
+1176 	TCP 		Perceptive Automation Indigo Home automation server 	Official
+1182 	TCP 	UDP 	AcceleNet Intelligent Transfer Protocol 	Official
+1194 	TCP 	UDP 	OpenVPN 	Official
+1198 	TCP 	UDP 	The cajo project Free dynamic transparent distributed computing in Java 	Official
+1200 	TCP 		scol, protocol used by SCOL 3D virtual worlds server to answer world name resolution client request[42] 	Official
+1200 		UDP 	scol, protocol used by SCOL 3D virtual worlds server to answer world name resolution client request 	Official
+1200 		UDP 	Steam Friends Applet 	Unofficial
+1214 	TCP 		Kazaa 	Official
+1217 	TCP 		Uvora Online 	Unofficial
+1220 	TCP 		QuickTime Streaming Server administration 	Official
+1223 	TCP 	UDP 	TGP, TrulyGlobal Protocol, also known as "The Gur Protocol" (named for Gur Kimchi of TrulyGlobal) 	Official
+1232 	TCP 	UDP 	first-defense, Remote systems monitoring service from Nexum, Inc 	Official
+1234 		UDP 	VLC media player default port for UDP/RTP stream 	Unofficial
+1236 	TCP 		Symantec BindView Control UNIX Default port for TCP management server connections 	Unofficial
+1241 	TCP 	UDP 	Nessus Security Scanner 	Official
+1270 	TCP 	UDP 	Microsoft System Center Operations Manager (SCOM) (formerly Microsoft Operations Manager (MOM)) agent 	Official
+1293 	TCP 	UDP 	IPSec (Internet Protocol Security) 	Official
+1301 	TCP 		Palmer Performance OBDNet 	Unofficial
+1309 	TCP 		Altera Quartus jtagd 	Unofficial
+1311 	TCP 		Dell OpenManage HTTPS 	Official
+1313 	TCP 		Xbiim (Canvii server)[citation needed] 	Unofficial
+1314 	TCP 		Festival Speech Synthesis System 	Unofficial
+1319 	TCP 		AMX ICSP 	Official
+1319 		UDP 	AMX ICSP 	Official
+1337 		UDP 	Men and Mice DNS 	Official
+1337 	TCP 		Men and Mice DNS 	Official
+1337 	TCP 		WASTE Encrypted File Sharing Program 	Unofficial
+1344 	TCP 		Internet Content Adaptation Protocol 	Official
+1352 	TCP 		IBM Lotus Notes/Domino[43] (RPC) protocol 	Official
+1387 	TCP 	UDP 	cadsi-lm, LMS International (formerly Computer Aided Design Software, Inc. (CADSI)) LM 	Official
+1414 	TCP 		IBM WebSphere MQ (formerly known as MQSeries) 	Official
+1417 	TCP 	UDP 	Timbuktu Service 1 Port 	Official
+1418 	TCP 	UDP 	Timbuktu Service 2 Port 	Official
+1419 	TCP 	UDP 	Timbuktu Service 3 Port 	Official
+1420 	TCP 	UDP 	Timbuktu Service 4 Port 	Official
+1431 	TCP 		Reverse Gossip Transport Protocol (RGTP), used to access a General-purpose Reverse-Ordered Gossip Gathering System (GROGGS) bulletin board, such as that implemented on the Cambridge University's Phoenix system 	Official
+1433 	TCP 		MSSQL (Microsoft SQL Server database management system) Server 	Official
+1434 	TCP 	UDP 	MSSQL (Microsoft SQL Server database management system) Monitor 	Official
+1470 	TCP 		Solarwinds Kiwi Log Server 	Official
+1494 	TCP 		Citrix XenApp Independent Computing Architecture (ICA) thin client protocol[44] 	Official
+1500 	TCP 		NetGuard GuardianPro firewall (NT4-based) Remote Management 	Unofficial
+1501 		UDP 	NetGuard GuardianPro firewall (NT4-based) Authentication Client 	Unofficial
+1503 	TCP 	UDP 	Windows Live Messenger (Whiteboard and Application Sharing) 	Unofficial
+1512 	TCP 	UDP 	Microsoft Windows Internet Name Service (WINS) 	Official
+1513 	TCP 	UDP 	Garena Garena Gaming Client 	Official
+1521 	TCP 		nCube License Manager 	Official
+1521 	TCP 		Oracle database default listener, in future releases official port 2483 	Unofficial
+1524 	TCP 	UDP 	ingreslock, ingres 	Official
+1526 	TCP 		Oracle database common alternative for listener 	Unofficial
+1527 	TCP 		Apache Derby Network Server default port 	Unofficial
+1533 	TCP 		IBM Sametime IM—Virtual Places Chat Microsoft SQL Server 	Official
+1534 		UDP 	Eclipse Target Communication Framework (TCF) agent discovery[45] 	Unofficial
+1547 	TCP 	UDP 	Laplink 	Official
+1550 	TCP 	UDP 	3m-image-lm Image Storage license manager 3M Company 	Official
+1550 			Gadu-Gadu (direct client-to-client) 	Unofficial
+1581 		UDP 	MIL STD 2045-47001 VMF 	Official
+1589 		UDP 	Cisco VQP (VLAN Query Protocol) / VMPS 	Unofficial
+1590 	TCP 		GE Smallworld Datastore Server (SWMFS/Smallworld Master Filesystem)[citation needed] 	Unofficial
+1627 			iSketch[citation needed] 	Unofficial
+1645 	TCP 	UDP 	radius auth, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers, but see port 1812 below) 	Unofficial
+1646 	TCP 	UDP 	radius acct, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers, but see port 1813 below) 	Unofficial
+1666 	TCP 		Perforce 	Unofficial
+1677 	TCP 	UDP 	Novell GroupWise clients in client/server access mode 	Official
+1688 	TCP 		Microsoft Key Management Service for KMS Windows Activation 	Unofficial
+1700 		UDP 	Cisco RADIUS Change of Authorization for TrustSec[citation needed] 	Unofficial
+1701 		UDP 	Layer 2 Forwarding Protocol (L2F) & Layer 2 Tunneling Protocol (L2TP) 	Official
+1707 	TCP 	UDP 	Windward Studios 	Official
+1707 		TCP 	Romtoc Packet Protocol (L2F) & Layer 2 Tunneling Protocol (L2TP) 	Unofficial
+1716 	TCP 		America's Army Massively multiplayer online game (MMO) 	Unofficial
+1719 		UDP 	H.323 Registration and alternate communication 	Official
+1720 	TCP 		H.323 Call signalling 	Official
+1723 	TCP 	UDP 	Microsoft Point-to-Point Tunneling Protocol (PPTP) 	Official
+1725 		UDP 	Valve Steam Client 	Unofficial
+1755 	TCP 	UDP 	Microsoft Media Services (MMS, ms-streaming) 	Official
+1761 		UDP 	cft-0 	Official
+1761 	TCP 		cft-0 	Official
+1761 	TCP 		Novell Zenworks Remote Control utility 	Unofficial
+1762–1768 	TCP 	UDP 	cft-1 to cft-7 	Official
+1776 	TCP 	UDP 	Federal Emergency Management Information SystemTemplate:Http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml 	Official
+1792 	TCP 	UDP 	Moby[citation needed] 	Unofficial
+1801 	TCP 	UDP 	Microsoft Message Queuing 	Official
+1812 	TCP 	UDP 	radius, RADIUS authentication protocol 	Official
+1813 	TCP 	UDP 	radacct, RADIUS accounting protocol 	Official
+1863 	TCP 		MSNP (Microsoft Notification Protocol), used by the Microsoft Messenger service and a number of Instant Messaging clients 	Official
+1883 	TCP 	UDP 	MQ Telemetry Transport (MQTT), formerly known as MQIsdp (MQSeries SCADA protocol) 	Official
+1886 	TCP 		Leonardo over IP Pro2col Ltd 	Unofficial
+1900 		UDP 	Microsoft SSDP Enables discovery of UPnP devices 	Official
+1920 	TCP 		IBM Tivoli monitoring console 	Unofficial
+1935 	TCP 		Adobe Systems Macromedia Flash Real Time Messaging Protocol (RTMP) "plain" protocol 	Official
+1947 	TCP 	UDP 	SentinelSRM (hasplm), Aladdin HASP License Manager 	Official
+1967 		UDP 	Cisco IOS IP Service Level Agreements (IP SLAs) Control Protocol[citation needed] 	Unofficial
+1970 	TCP 	UDP 	Netop Business Solutions Netop Remote Control 	Official
+1971 	TCP 	UDP 	Netop Business Solutions Netop School 	Official
+1972 	TCP 	UDP 	InterSystems Caché 	Official
+1975–1977 		UDP 	Cisco TCO (Documentation) 	Official
+1984 	TCP 		Big Brother and related Xymon (formerly Hobbit) System and Network Monitor 	Official
+1985 		UDP 	Cisco HSRP 	Official
+1994 	TCP 	UDP 	Cisco STUN-SDLC (Serial Tunneling—Synchronous Data Link Control) protocol 	Official
+1997 	TCP 		Chizmo Networks Transfer Tool[citation needed] 	Unofficial
+1998 	TCP 	UDP 	Cisco X.25 over TCP (XOT) service 	Official
+2000 	TCP 	UDP 	Cisco SCCP (Skinny) 	Official
+2001 		UDP 	CAPTAN Test Stand System 	Unofficial
+2002 	TCP 		Secure Access Control Server (ACS) for Windows[citation needed] 	Unofficial
+2010 	TCP 		Artemis: Spaceship Bridge Simulator default port 	Unofficial
+2012 	TCP 		Remoticus Server 	Unofficial
+2013 	TCP 		Remoticus Server Hooks 	Unofficial
+2030 			Oracle services for Microsoft Transaction Server 	Unofficial
+2031 	TCP 	UDP 	mobrien-chat(http://chat.mobrien.com:2031) 	Official
+2041 	TCP 		Mail.Ru Agent communication protocol[citation needed] 	Unofficial
+2049 	TCP 	UDP 	Network File System 	Official
+2049 		UDP 	shilp 	Official
+2053 	TCP 		knetd Kerberos de-multiplexor 	Unofficial
+2056 		UDP 	Civilization 4 multiplayer 	Unofficial
+2074 	TCP 	UDP 	Vertel VMF SA (i.e. App.. SpeakFreely) 	Official
+2080 	TCP 	UDP 	Autodesk NLM (FLEXlm) 	Official
+2082 	TCP 		Infowave Mobility Server 	Official
+2082 	TCP 		CPanel default 	Unofficial
+2083 	TCP 		Secure Radius Service (radsec) 	Official
+2083 	TCP 		CPanel default SSL 	Unofficial
+2086 	TCP 		GNUnet 	Official
+2086 	TCP 		WebHost Manager default 	Unofficial
+2087 	TCP 		WebHost Manager default SSL 	Unofficial
+2095 	TCP 		CPanel default Web mail 	Unofficial
+2096 	TCP 		CPanel default SSL Web mail 	Unofficial
+2102 	TCP 	UDP 	zephyr-srv Project Athena Zephyr Notification Service server 	Official
+2103 	TCP 	UDP 	zephyr-clt Project Athena Zephyr Notification Service serv-hm connection 	Official
+2104 	TCP 	UDP 	zephyr-hm Project Athena Zephyr Notification Service hostmanager 	Official
+2105 	TCP 	UDP 	IBM MiniPay 	Official
+2105 	TCP 	UDP 	eklogin Kerberos encrypted remote login (rlogin) 	Unofficial
+2105 	TCP 	UDP 	zephyr-hm-srv Project Athena Zephyr Notification Service hm-serv connection (should use port 2102) 	Unofficial
+2115 	TCP 	UDP 	MIS Department 	Unofficial
+2121 	TCP 		FTP proxy[citation needed] 	Unofficial
+2144 	TCP 		Iron Mountain LiveVault Agent[citation needed] 	Unofficial
+2145 	TCP 		Iron Mountain LiveVault Agent[citation needed] 	Unofficial
+2156 		UDP 	Talari Reliable Protocol 	Official
+2160 	TCP 		APC Agent 	Official
+2161 	TCP 		APC Agent 	Official
+2181 	TCP 	UDP 	EForward-document transport system 	Official
+2190 		UDP 	TiVoConnect Beacon[citation needed] 	Unofficial
+2195 	TCP 		Apple Push Notification service Link 	Unofficial
+2196 	TCP 		Apple Push Notification - Feedback Link 	Unofficial
+2200 		UDP 	Tuxanci game server[46] 	Unofficial
+2210 		UDP 	NOAAPORT Broadcast Network 	Official
+2210 	TCP 		NOAAPORT Broadcast Network 	Official
+2210 	TCP 		MikroTik Remote management for "The Dude" 	Unofficial
+2211 		UDP 	EMWIN 	Official
+2211 	TCP 		EMWIN 	Official
+2211 	TCP 		MikroTik Secure management for "The Dude" 	Unofficial
+2212 		UDP 	LeeCO POS Server Service 	Official
+2212 	TCP 		LeeCO POS Server Service 	Official
+2212 	TCP 		Port-A-Pour Remote WinBatch 	Unofficial
+2219 	TCP 	UDP 	NetIQ NCAP Protocol 	Official
+2220 	TCP 	UDP 	NetIQ End2End 	Official
+2221 	TCP 		ESET Anti-virus updates 	Unofficial
+2222 	TCP 		DirectAdmin default & ESET Remote Administration 	Unofficial
+2223 		UDP 	Microsoft Office OS X antipiracy network monitor[citation needed] 	Unofficial
+2261 	TCP 	UDP 	CoMotion Master 	Official
+2262 	TCP 	UDP 	CoMotion Backup 	Official
+2301 	TCP 		HP System Management Redirect to port 2381[citation needed] 	Unofficial
+2302 		UDP 	ArmA multiplayer (default for game) 	Unofficial
+2302 		UDP 	Halo: Combat Evolved multiplayer 	Unofficial
+2303 		UDP 	ArmA multiplayer (default for server reporting) (default port for game +1) 	Unofficial
+2305 		UDP 	ArmA multiplayer (default for VoN) (default port for game +3) 	Unofficial
+2323 	TCP 		Philips TVs based on jointSPACE [47] 	Unofficial
+2369 	TCP 		Default for BMC Software Control-M/Server—Configuration Agent, though often changed during installation 	Official
+2370 	TCP 		Default for BMC Software Control-M/Server—to allow the Control-M/Enterprise Manager to connect to the Control-M/Server, though often changed during installation 	Official
+2379 	TCP 		KGS Go Server 	Unofficial
+2381 	TCP 		HP Insight Manager default for Web server[citation needed] 	Unofficial
+2399 	TCP 		FileMaker Data Access Layer (ODBC/JDBC) 	Official
+2401 	TCP 		CVS version control system 	Unofficial
+2404 	TCP 		IEC 60870-5 -104, used to send electric power telecontrol messages between two systems via directly connected data circuits 	Official
+2420 		UDP 	Westell Remote Access 	Official
+2424 	TCP 		OrientDB database listening for Binary client connections 	Official
+2427 		UDP 	Cisco MGCP 	Official
+2447 	TCP 	UDP 	ovwdb—OpenView Network Node Manager (NNM) daemon 	Official
+2463 	TCP 	UDP 	LSI RAID Management formerly Symbios Logic 	Official
+2480 	TCP 		OrientDB database listening for HTTP client connections 	Official
+2483 	TCP 	UDP 	Oracle database listening for unsecure client connections to the listener, replaces port 1521 	Official
+2484 	TCP 	UDP 	Oracle database listening for SSL client connections to the listener 	Official
+2500 	TCP 		THEÒSMESSENGER listening for TheòsMessenger client connections 	Official
+2501 	TCP 		TheosNet-Admin listening for TheòsMessenger client connections 	Official
+2518 	TCP 	UDP 	Willy 	Official
+2525 	TCP 		SMTP alternate[citation needed] 	Unofficial
+2535 	TCP 		MADCAP - Multicast Address Dynamic Client Allocation Protocol 	Official
+2546 	TCP 	UDP 	EVault data protection services 	Unofficial
+2593 	TCP 	UDP 	RunUO—Ultima Online server 	Unofficial
+25565 	TCP 		new ICA (Citrix) —when Session Reliability is enabled, TCP port 2598 replaces port 1494[44] 	Unofficial
+2599 	TCP 		SonicWALL anti-spam traffic between Remote Analyzer (RA) and Control Center (CC) 	Unofficial
+2610 	TCP 		TrackiT mobile device monitoring 	Unofficial
+2612 	TCP 	UDP 	QPasa from MQSoftware 	Official
+2636 	TCP 		Solve Service 	Official
+2638 	TCP 		Sybase database listener[citation needed] 	Unofficial
+2641 	TCP 	UDP 	HDL Server from CNRI 	Official
+2642 	TCP 	UDP 	Tragic 	Official
+2698 	TCP 	UDP 	Citel / MCK IVPIP 	Official
+2700–2800 	TCP 		KnowShowGo P2P 	Official
+2710 	TCP 		XBT Tracker 	Unofficial
+2710 		UDP 	XBT Tracker experimental UDP tracker extension 	Unofficial
+2710 	TCP 		Knuddels.de[citation needed] 	Unofficial
+2735 	TCP 	UDP 	NetIQ Monitor Console 	Official
+2809 	TCP 		corbaloc:iiop URL, per the CORBA 3.0.3 specification 	Official
+2809 	TCP 		IBM WebSphere Application Server (WAS) Bootstrap/rmi default 	Unofficial
+2809 		UDP 	corbaloc:iiop URL, per the CORBA 3.0.3 specification. 	Official
+2827 	TCP 		I2P Basic Open Bridge API 	Unofficial
+2868 	TCP 	UDP 	Norman Proprietary Event Protocol NPEP 	Official
+2944 		UDP 	Megaco text H.248 	Unofficial
+2945 		UDP 	Megaco binary (ASN.1) H.248 	Unofficial
+2947 	TCP 		gpsd GPS daemon 	Official
+2948 	TCP 	UDP 	WAP-push Multimedia Messaging Service (MMS) 	Official
+2949 	TCP 	UDP 	WAP-pushsecure Multimedia Messaging Service (MMS) 	Official
+2967 	TCP 		Symantec AntiVirus Corporate Edition 	Unofficial
+3000 	TCP 		Miralix License server[citation needed] 	Unofficial
+3000 	TCP 		Cloud9 Integrated Development Environment server 	Unofficial
+3000 		UDP 	Distributed Interactive Simulation (DIS), modifiable default 	Unofficial
+3000 	TCP 		Ruby on Rails development default[48] 	Unofficial
+3001 	TCP 		Miralix Phone Monitor[citation needed] 	Unofficial
+3001 	TCP 		Opsware server (Satellite) 	Unofficial
+3002 	TCP 		Miralix CSTA[citation needed] 	Unofficial
+3003 	TCP 		Miralix GreenBox API[citation needed] 	Unofficial
+3004 	TCP 		Miralix InfoLink[citation needed] 	Unofficial
+3005 	TCP 		Miralix TimeOut[citation needed] 	Unofficial
+3006 	TCP 		Miralix SMS Client Connector[citation needed] 	Unofficial
+3007 	TCP 		Miralix OM Server[citation needed] 	Unofficial
+3008 	TCP 		Miralix Proxy[citation needed] 	Unofficial
+3017 	TCP 		Miralix IVR and Voicemail[citation needed] 	Unofficial
+3025 	TCP 		netpd.org[citation needed] 	Unofficial
+3030 	TCP 	UDP 	NetPanzer 	Unofficial
+3040 	TCP 	UDP 	PandaROM Update Service Port 	Official
+3050 	TCP 	UDP 	gds_db (Interbase/Firebird) 	Official
+3051 	TCP 	UDP 	Galaxy Server (Gateway Ticketing Systems) 	Official
+3052 	TCP 	UDP 	APC PowerChute Network [1] 	Official
+3074 	TCP 	UDP 	NAT / Xbox LIVE and/or Games for Windows - LIVE 	Official
+3100 	TCP 		SMAUSA OpCon Scheduler as the default listen port[citation needed] 	Official
+3101 	TCP 		BlackBerry Enterprise Server communication to cloud 	Unofficial
+3119 	TCP 		D2000 Entis/Actis Application server 	Official
+3128 	TCP 		Web caches and the default for the Squid (software) 	Unofficial
+3128 	TCP 		Tatsoft default client connection[citation needed] 	Unofficial
+3162 	TCP 	UDP 	SFLM (Standard Floating License Manager) 	Official
+3225 	TCP 	UDP 	FCIP (Fiber Channel over Internet Protocol) 	Official
+3233 	TCP 	UDP 	WhiskerControl research control protocol 	Official
+3235 	TCP 	UDP 	Galaxy Network Service (Gateway Ticketing Systems) 	Official
+3260 	TCP 		iSCSI target 	Official
+3268 	TCP 	UDP 	msft-gc, Microsoft Global Catalog (LDAP service which contains data from Active Directory forests) 	Official
+3269 	TCP 	UDP 	msft-gc-ssl, Microsoft Global Catalog over SSL (similar to port 3268, LDAP over SSL) 	Official
+3283 	TCP 		Apple Remote Desktop reporting (officially Net Assistant, referring to an earlier product) 	Official
+3290 		UDP 	Used by VATSIM, the Virtual Air Traffic Simulation network for voice communication. 	Unofficial
+3299 	TCP 		SAP-Router (routing application proxy for SAP R/3) 	Unofficial
+3300 	TCP 	UDP 	Debate Gopher backend database system[citation needed] 	Unofficial
+3305 	TCP 	UDP 	odette-ftp, Odette File Transfer Protocol (OFTP) 	Official
+3306 	TCP 	UDP 	MySQL database system 	Official
+3313 	TCP 		Verisys file integrity monitoring software 	Unofficial
+3333 	TCP 		Network Caller ID server 	Unofficial
+3333 	TCP 		CruiseControl.rb[49] 	Unofficial
+3386 	TCP 	UDP 	GTP' 3GPP GSM/UMTS CDR logging protocol 	Official
+3389 	TCP 	UDP 	Microsoft Terminal Server (RDP) officially registered as Windows Based Terminal (WBT) - Link 	Official
+3396 	TCP 	UDP 	Novell NDPS Printer Agent 	Official
+3412 	TCP 	UDP 	xmlBlaster 	Official
+3455 	TCP 	UDP 	[RSVP] Reservation Protocol 	Official
+3423 	TCP 		Xware xTrm Communication Protocol 	Official
+3424 	TCP 		Xware xTrm Communication Protocol over SSL 	Official
+3478 	TCP 	UDP 	STUN, a protocol for NAT traversal[50] 	Official
+3478 	TCP 	UDP 	TURN, a protocol for NAT traversal[51] 	Official
+3483 		UDP 	Slim Devices discovery protocol 	Official
+3483 	TCP 		Slim Devices SlimProto protocol 	Official
+3516 	TCP 	UDP 	Smartcard Port 	Official
+3527 		UDP 	Microsoft Message Queuing 	Official
+3535 	TCP 		SMTP alternate[52] 	Unofficial
+3537 	TCP 	UDP 	ni-visa-remote[citation needed] 	Unofficial
+3544 		UDP 	Teredo tunneling 	Official
+3605 		UDP 	ComCam IO Port 	Official
+3606 	TCP 	UDP 	Splitlock Server 	Official
+3632 	TCP 		distributed compiler 	Official
+3689 	TCP 		Digital Audio Access Protocol (DAAP)—used by Apple’s iTunes and AirPort Express 	Official
+3690 	TCP 	UDP 	Subversion (SVN) version control system 	Official
+3702 	TCP 	UDP 	Web Services Dynamic Discovery (WS-Discovery), used by various components of Windows Vista 	Official
+3724 	TCP 	UDP 	Used by some Blizzard games[41] 	Official
+3724 	TCP 		Club Penguin Disney online game for kids 	Unofficial
+3784 	TCP 	UDP 	VoIP program used by Ventrilo 	Unofficial
+3785 		UDP 	VoIP program used by Ventrilo 	Unofficial
+3799 		UDP 	RADIUS change of authorization 	Unofficial
+3800 	TCP 		Used by HGG programs[citation needed] 	Unofficial
+3825 	TCP 		Used by RedSeal Networks client/server connection[citation needed] 	Unofficial
+3826 	TCP 	UDP 	WarMUX game server 	Official
+3826 	TCP 		Used by RedSeal Networks client/server connection[citation needed] 	Unofficial
+3835 	TCP 		Used by RedSeal Networks client/server connection[citation needed] 	Unofficial
+3880 	TCP 	UDP 	IGRS 	Official
+3868 	TCP 	SCTP 	Diameter base protocol (RFC 3588) 	Official
+3872 	TCP 		Oracle Management Remote Agent[citation needed] 	Unofficial
+3899 	TCP 		Remote Administrator 	Unofficial
+3900 	TCP 		udt_os, IBM UniData UDT OS[53] 	Official
+3945 	TCP 	UDP 	EMCADS service, a Giritech product used by G/On 	Official
+3978 	TCP 	UDP 	OpenTTD game (masterserver and content service) 	Unofficial
+3979 	TCP 	UDP 	OpenTTD game 	Unofficial
+3999 	TCP 	UDP 	Norman distributed scanning service 	Official
+4000 	TCP 	UDP 	Diablo II game 	Unofficial
+4001 	TCP 		Microsoft Ants game 	Unofficial
+4007 	TCP 		PrintBuzzer printer monitoring socket server[citation needed] 	Unofficial
+4018 	TCP 	UDP 	protocol information and warnings 	Official
+4035 	TCP 	TCP 	IBM Rational Developer for System z Remote System Explorer Daemon 	Unofficial
+4045 	TCP 	UDP 	Solaris lockd NFS lock daemon/manager 	Unofficial
+4069 		UDP 	Minger Email Address Verification Protocol[54] 	Official
+4089 	TCP 	UDP 	OpenCORE Remote Control Service 	Official
+4093 	TCP 	UDP 	PxPlus Client server interface ProvideX 	Official
+4096 	TCP 	UDP 	Ascom Timeplex BRE (Bridge Relay Element) 	Official
+4100 			WatchGuard authentication applet default 	Unofficial
+4105 	TCP 	UDP 	Shofar (ShofarNexus) 	Official
+4111 	TCP 		Xgrid 	Official
+4116 	TCP 	UDP 	Smartcard-TLS 	Official
+4125 	TCP 		Microsoft Remote Web Workplace administration 	Unofficial
+4172 	TCP 	UDP 	Teradici PCoIP 	Official
+4201 	TCP 		TinyMUD and various derivatives 	Unofficial
+4226 	TCP 	UDP 	Aleph One (game) 	Unofficial
+4224 	TCP 		Cisco Audio Session Tunneling[citation needed] 	Unofficial
+4242 	TCP 		Reverse Battle Tetris 	Unofficial
+4242 	TCP 		Orthanc - Default DICOM port 	Unofficial
+4321 	TCP 		Referral Whois (RWhois) Protocol[55] 	Official
+4323 		UDP 	Lincoln Electric's ArcLink/XT[citation needed] 	Unofficial
+4433-4436 	TCP 		Axence nVision [56] 	Unofficial
+4444-4445 	TCP 		I2P HTTP/S proxy 	Unofficial
+4486 	TCP 	UDP 	Integrated Client Message Service (ICMS) 	Official
+4500 		UDP 	IPSec NAT Traversal (RFC 3947) 	Official
+4502-4534 	TCP 		Microsoft Silverlight connectable ports under non-elevated trust 	Official
+4534 		UDP 	Armagetron Advanced default server port 	Unofficial
+4567 	TCP 		Sinatra default server port in development mode (HTTP) 	Unofficial
+4569 		UDP 	Inter-Asterisk eXchange (IAX2) 	Official
+4610–4640 	TCP 		QualiSystems TestShell Suite Services 	Unofficial
+4662 		UDP 	OrbitNet Message Service 	Official
+4662 	TCP 		OrbitNet Message Service 	Official
+4662 	TCP 		Default for older versions of eMule[57] 	Unofficial
+4664 	TCP 		Google Desktop Search 	Unofficial
+4672 		UDP 	Default for older versions of eMule[57] 	Unofficial
+4711 	TCP 		eMule optional web interface[57] 	Unofficial
+4711 	TCP 		McAfee Web Gateway 7 - Default GUI Port HTTP[citation needed] 	Unofficial
+4712 	TCP 		McAfee Web Gateway 7 - Default GUI Port HTTPS[citation needed] 	Unofficial
+4713 	TCP 		PulseAudio sound server 	Unofficial
+4728 	TCP 		Computer Associates Desktop and Server Management (DMP)/Port Multiplexer [58] 	Official
+4730 	TCP 	UDP 	Gearman' job server 	Official
+4732 		UDP 	Digital Airways' OHM server's commands to mobile devices (used mainly for binary SMS) 	Official
+4747 	TCP 		Apprentice 	Unofficial
+4750 	TCP 		BladeLogic Agent 	Unofficial
+4753 	TCP 	UDP 	SIMON (service and discovery) 	Official
+4840 	TCP 	UDP 	OPC UA TCP Protocol for OPC Unified Architecture from OPC Foundation 	Official
+4843 	TCP 	UDP 	OPC UA TCP Protocol over TLS/SSL for OPC Unified Architecture from OPC Foundation 	Official
+4847 	TCP 	UDP 	Web Fresh Communication, Quadrion Software & Odorless Entertainment 	Official
+4894 	TCP 	UDP 	LysKOM Protocol A 	Official
+4899 	TCP 	UDP 	Radmin remote administration tool 	Official
+4949 	TCP 		Munin Resource Monitoring Tool 	Official
+4950 	TCP 	UDP 	Cylon Controls UC32 Communications Port 	Official
+4982 	TCP 	UDP 	Solar Data Log (JK client app for PV solar inverters)[citation needed] 	Unofficial
+4993 	TCP 	UDP 	Home FTP Server web Interface Default Port[citation needed] 	Unofficial
+5000 	TCP 		commplex-main 	Official
+5000 	TCP 		UPnP—Windows network device interoperability 	Unofficial
+5000 	TCP 	UDP 	VTun—VPN Software 	Unofficial
+5000 		UDP 	FlightGear multiplayer[59] 	Unofficial
+5000 	TCP 		Synology Inc. Management Console, File Station, Audio Station 	Unofficial
+5001 	TCP 		commplex-link 	Official
+5001 	TCP 		Slingbox and Slingplayer 	Unofficial
+5001 	TCP 		Iperf (Tool for measuring TCP and UDP bandwidth performance) 	Unofficial
+5001 		UDP 	Iperf (Tool for measuring TCP and UDP bandwidth performance) 	Unofficial
+5001 	TCP 		Synology Inc. Secured Management Console, File Station, Audio Station 	Unofficial
+5002 	TCP 		SOLICARD ARX[60] 	Unofficial
+5002 		UDP 	Drobo Dashboard[61] 	Unofficial
+5003 	TCP 	UDP 	FileMaker 	Official
+5004 	TCP 	UDP 	RTP (Real-time Transport Protocol) media data (RFC 3551, RFC 4571) 	Official
+5004 	DCCP 		RTP (Real-time Transport Protocol) media data (RFC 3551, RFC 4571) 	Official
+5005 	TCP 	UDP 	RTP (Real-time Transport Protocol) control protocol (RFC 3551, RFC 4571) 	Official
+5005 	DCCP 		RTP (Real-time Transport Protocol) control protocol (RFC 3551, RFC 4571) 	Official
+5010 	TCP 	UDP 	Registered to: TelePath (the IBM FlowMark workflow-management system messaging platform)[62]
+The TCP port is now used for: IBM WebSphere MQ Workflow 	Official
+5011 	TCP 	UDP 	TelePath (the IBM FlowMark workflow-management system messaging platform)[62] 	Official
+5029 	TCP 		Sonic Robo Blast 2 : Multiplayer[63] 	Unofficial
+5031 	TCP 	UDP 	AVM CAPI-over-TCP (ISDN over Ethernet tunneling)[citation needed] 	Unofficial
+5037 	TCP 		Android ADB server 	Unofficial
+5050 	TCP 		Yahoo! Messenger 	Unofficial
+5051 	TCP 		ita-agent Symantec Intruder Alert[64] 	Official
+5060 	TCP 	UDP 	Session Initiation Protocol (SIP) 	Official
+5061 	TCP 		Session Initiation Protocol (SIP) over TLS 	Official
+5070 	TCP 		Binary Floor Control Protocol (BFCP),[65] published as RFC 4582, is a protocol that allows for an additional video channel (known as the content channel) alongside the main video channel in a video-conferencing call that uses SIP. Also used for Session Initiation Protocol (SIP) preferred port for PUBLISH on SIP Trunk to Cisco Unified Presence Server (CUPS) 	Unofficial
+5082 	TCP 	UDP 	Qpur Communication Protocol 	Official
+5083 	TCP 	UDP 	Qpur File Protocol 	Official
+5084 	TCP 	UDP 	EPCglobal Low Level Reader Protocol (LLRP) 	Official
+5085 	TCP 	UDP 	EPCglobal Low Level Reader Protocol (LLRP) over TLS 	Official
+5093 		UDP 	SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Client-to-Server 	Official
+5099 	TCP 	UDP 	SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Server-to-Server 	Official
+5104 	TCP 		IBM Tivoli Framework NetCOOL/Impact[66] HTTP Service 	Unofficial
+5106 	TCP 		A-Talk Common connection[citation needed] 	Unofficial
+5107 	TCP 		A-Talk Remote server connection[citation needed] 	Unofficial
+5108 	TCP 		VPOP3 Mail Server Webmail[citation needed] 	Unofficial
+5109 	TCP 	UDP 	VPOP3 Mail Server Status[citation needed] 	Unofficial
+5110 	TCP 		ProRat Server 	Unofficial
+5121 	TCP 		Neverwinter Nights 	Unofficial
+5124 	TCP 	UDP 	TorgaNET (Micronational Darknet) 	Unofficial
+5125 	TCP 	UDP 	TorgaNET (Micronational Intelligence Darknet) 	Unofficial
+5150 	TCP 	UDP 	ATMP Ascend Tunnel Management Protocol[67] 	Official
+5150 	TCP 	UDP 	Malware Cerberus RAT[citation needed] 	Unofficial
+5151 	TCP 		ESRI SDE Instance 	Official
+5151 		UDP 	ESRI SDE Remote Start 	Official
+5154 	TCP 	UDP 	BZFlag 	Official
+5176 	TCP 		ConsoleWorks default UI interface[citation needed] 	Unofficial
+5190 	TCP 		ICQ and AOL Instant Messenger 	Official
+5222 	TCP 		Extensible Messaging and Presence Protocol (XMPP) client connection[68][69] 	Official
+5223 	TCP 		Extensible Messaging and Presence Protocol (XMPP) client connection over SSL 	Unofficial
+5228 	TCP 		HP Virtual Room Service 	Official
+5228 	TCP 		Google Play, Android Cloud to Device Messaging Service, Google Cloud Messaging 	Unofficial
+5246 		UDP 	Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP control[70] 	Official
+5247 		UDP 	Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP data[70] 	Official
+5269 	TCP 		Extensible Messaging and Presence Protocol (XMPP) server connection[68][69] 	Official
+5280 	TCP 		Extensible Messaging and Presence Protocol (XMPP) XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH) 	Official
+5281 	TCP 		Undo License Manager 	Official
+5281 	TCP 		Extensible Messaging and Presence Protocol (XMPP)[71] 	Unofficial
+5298 	TCP 	UDP 	Extensible Messaging and Presence Protocol (XMPP)[72] 	Official
+5310 	TCP 	UDP 	Outlaws (1997 video game). Both UDP and TCP are reserved, but only UDP is used 	Official
+5310 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5311 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5312 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5313 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5314 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5315 	TCP 	UDP 	Ginever.net data communication port[citation needed] 	Unofficial
+5349 	TCP 		STUN, a protocol for NAT traversal (UDP is reserved)[50] 	Official
+5349 	TCP 		TURN, a protocol for NAT traversal (UDP is reserved)[51] 	Official
+5351 	TCP 	UDP 	NAT Port Mapping Protocol—client-requested configuration for inbound connections through network address translators 	Official
+5353 		UDP 	Multicast DNS (mDNS) 	Official
+5355 	TCP 	UDP 	LLMNR—Link-Local Multicast Name Resolution, allows hosts to perform name resolution for hosts on the same local link (only provided by Windows Vista and Server 2008) 	Official
+5357 	TCP 	UDP 	Web Services for Devices (WSDAPI) (only provided by Windows Vista, Windows 7 and Server 2008) 	Unofficial
+5358 	TCP 	UDP 	WSDAPI Applications to Use a Secure Channel (only provided by Windows Vista, Windows 7 and Server 2008) 	Unofficial
+5394 		UDP 	Kega Fusion, a Sega multi-console emulator[73][74] 	Unofficial
+5402 	TCP 	UDP 	mftp, Stratacache OmniCast content delivery system MFTP file sharing protocol 	Official
+5405 	TCP 	UDP 	NetSupport Manager 	Official
+5412 	TCP 	UDP 	IBM Rational Synergy (Telelogic Synergy) (Continuus CM) Message Router 	Official
+5413 	TCP 	UDP 	Wonderware SuiteLink service 	Official
+5421 	TCP 	UDP 	NetSupport Manager 	Official
+5432 	TCP 	UDP 	PostgreSQL database system 	Official
+5433 	TCP 		Bouwsoft file/webserver[75] 	Unofficial
+5445 		UDP 	Cisco Unified Video Advantage[citation needed] 	Unofficial
+5450 	TCP 		OSIsoft PI Server Client Access 	Unofficial
+5457 	TCP 		OSIsoft PI Asset Framework Client Access 	Unofficial
+5458 	TCP 		OSIsoft PI Notifications Client Access 	Unofficial
+5495 	TCP 		IBM Cognos TM1 Admin server 	Unofficial
+5498 	TCP 		Hotline tracker server connection 	Unofficial
+5499 		UDP 	Hotline tracker server discovery 	Unofficial
+5500 	TCP 		VNC remote desktop protocol—for incoming listening viewer, Hotline control connection 	Unofficial
+5501 	TCP 		Hotline file transfer connection 	Unofficial
+5517 	TCP 		Setiqueue Proxy server client for SETI@Home project 	Unofficial
+5550 	TCP 		Hewlett-Packard Data Protector[citation needed] 	Unofficial
+5555 	TCP 		Freeciv versions up to 2.0, Hewlett-Packard Data Protector, McAfee EndPoint Encryption Database Server, SAP, Default for Microsoft Dynamics CRM 4.0 	Unofficial
+5556 	TCP 	UDP 	Freeciv 	Official
+5591 	TCP 		Default for Tidal Enterprise Scheduler master-Socket used for communication between Agent-to-Master, though can be changed[citation needed] 	Unofficial
+5631 	TCP 		pcANYWHEREdata, Symantec pcAnywhere (version 7.52 and later[76])[77] data 	Official
+5632 		UDP 	pcANYWHEREstat, Symantec pcAnywhere (version 7.52 and later) status 	Official
+5656 	TCP 		IBM Lotus Sametime p2p file transfer 	Unofficial
+5666 	TCP 		NRPE (Nagios) 	Unofficial
+5667 	TCP 		NSCA (Nagios) 	Unofficial
+5678 		UDP 	Mikrotik RouterOS Neighbor Discovery Protocol (MNDP) 	Unofficial
+5721 	TCP 	UDP 	Kaseya[citation needed] 	Unofficial
+5723 	TCP 		Operations Manager[78] 	Unofficial
+5741 	TCP 	UDP 	IDA Discover Port 1 	Official
+5742 	TCP 	UDP 	IDA Discover Port 2 	Official
+5800 	TCP 		VNC remote desktop protocol—for use over HTTP 	Unofficial
+5814 	TCP 	UDP 	Hewlett-Packard Support Automation (HP OpenView Self-Healing Services)[citation needed] 	Official
+5850 	TCP 		COMIT SE (PCR)[citation needed] 	Unofficial
+5852 	TCP 		Adeona client: communications to OpenDHT[citation needed] 	Unofficial
+5900 	TCP 	UDP 	Virtual Network Computing (VNC) remote desktop protocol (used by Apple Remote Desktop and others) 	Official
+5912 	TCP 		Default for Tidal Enterprise Scheduler agent-Socket used for communication between Master-to-Agent, though can be changed[citation needed] 	Unofficial
+5938 	TCP 	UDP 	TeamViewer remote desktop protocol 	Unofficial
+5984 	TCP 	UDP 	CouchDB database server 	Official
+5999 	TCP 		CVSup file update tool[79] 	Official
+6000 	TCP 		X11—used between an X client and server over the network 	Official
+6001 		UDP 	X11—used between an X client and server over the network 	Official
+6005 	TCP 		Default for BMC Software Control-M/Server—Socket used for communication between Control-M processes—though often changed during installation 	Official
+6005 	TCP 		Default for Camfrog chat & cam client 	Unofficial
+6009 	TCP 		JD Edwards EnterpriseOne ERP system JDENet messaging client listener 	Unofficial
+6050 	TCP 		Arcserve backup 	Unofficial
+6050 	TCP 		Nortel software[citation needed] 	Unofficial
+6051 	TCP 		Arcserve backup 	Unofficial
+6072 	TCP 		iOperator Protocol Signal Port[citation needed] 	Unofficial
+6086 	TCP 		PDTP—FTP like file server in a P2P network 	Official
+6100 	TCP 		Vizrt System 	Unofficial
+6100 	TCP 		Ventrilo This is the authentication port that must be allowed outbound for version 3 of Ventrilo 	Official
+6101 	TCP 		Backup Exec Agent Browser[citation needed] 	Unofficial
+6110 	TCP 	UDP 	softcm, HP Softbench CM 	Official
+6111 	TCP 	UDP 	spc, HP Softbench Sub-Process Control 	Official
+6112 		UDP 	"dtspcd"—a network daemon that accepts requests from clients to execute commands and launch applications remotely 	Official
+6112 	TCP 		"dtspcd"—a network daemon that accepts requests from clients to execute commands and launch applications remotely 	Official
+6112 	TCP 		Blizzard's Battle.net gaming service and some games,[41] ArenaNet gaming service, Relic gaming service 	Unofficial
+6112 	TCP 		Club Penguin Disney online game for kids 	Unofficial
+6113 	TCP 		Club Penguin Disney online game for kids, Used by some Blizzard games[41] 	Unofficial
+6129 	TCP 		DameWare Remote Control 	Official
+6257 		UDP 	WinMX (see also 6699) 	Unofficial
+6260 	TCP 	UDP 	planet M.U.L.E. 	Unofficial
+6262 	TCP 		Sybase Advantage Database Server 	Unofficial
+6324 	TCP 	UDP 	Hall Research Device discovery and configuration 	Official
+6343 		UDP 	SFlow, sFlow traffic monitoring 	Official
+6346 	TCP 	UDP 	gnutella-svc, gnutella (FrostWire, Limewire, Shareaza, etc.) 	Official
+6347 	TCP 	UDP 	gnutella-rtr, Gnutella alternate 	Official
+6350 	TCP 	UDP 	App Discovery and Access Protocol 	Official
+6389 	TCP 		EMC CLARiiON 	Unofficial
+6432 	TCP 		PgBouncer - A connection pooler for PostgreSQL 	Official
+6444 	TCP 	UDP 	Sun Grid Engine—Qmaster Service 	Official
+6445 	TCP 	UDP 	Sun Grid Engine—Execution Service 	Official
+6502 	TCP 	UDP 	Netop Business Solutions - NetOp Remote Control 	Unofficial
+6503 		UDP 	Netop Business Solutions - NetOp School[citation needed] 	Unofficial
+6514 	TCP 		Syslog over TLS[80] 	Official
+6515 	TCP 	UDP 	Elipse RPC Protocol (REC) 	Official
+6522 	TCP 		Gobby (and other libobby-based software) 	Unofficial
+6523 	TCP 		Gobby 0.5 (and other libinfinity-based software) 	Unofficial
+6543 		UDP 	Paradigm Research & Development Jetnet[81] default 	Unofficial
+6566 	TCP 		SANE (Scanner Access Now Easy)—SANE network scanner daemon 	Unofficial
+6560-6561 	TCP 		Speech-Dispatcher daemon 	Unofficial
+6571 			Windows Live FolderShare client 	Unofficial
+6600 	TCP 		Music Player Daemon (MPD) 	Unofficial
+6619 	TCP 	UDP 	odette-ftps, Odette File Transfer Protocol (OFTP) over TLS/SSL 	Official
+6646 		UDP 	McAfee Network Agent[citation needed] 	Unofficial
+6660–6664 	TCP 		Internet Relay Chat (IRC) 	Unofficial
+6665–6669 	TCP 		Internet Relay Chat (IRC) 	Official
+6679 	TCP 	UDP 	Osorno Automation Protocol (OSAUT) 	Official
+6679 	TCP 		IRC SSL (Secure Internet Relay Chat)—often used 	Unofficial
+6697 	TCP 		IRC SSL (Secure Internet Relay Chat)—often used 	Unofficial
+6699 	TCP 		WinMX (see also 6257) 	Unofficial
+6702 	TCP 		Default for Tidal Enterprise Scheduler client-Socket used for communication between Client-to-Master, though can be changed[citation needed] 	Unofficial
+6715 	TCP 		AberMUD and derivatives default port 	Unofficial
+6771 		UDP 	Polycom server broadcast[citation needed] 	Unofficial
+6789 	TCP 		Campbell Scientific Loggernet Software[82] 	Unofficial
+6789 	TCP 		Bucky's Instant Messaging Program 	Unofficial
+6881–6887 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6888 	TCP 	UDP 	MUSE 	Official
+6888 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6889–6890 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6891–6900 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6891–6900 	TCP 	UDP 	Windows Live Messenger (File transfer) 	Unofficial
+6901 	TCP 	UDP 	Windows Live Messenger (Voice) 	Unofficial
+6901 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6902–6968 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6969 	TCP 	UDP 	acmsoda 	Official
+6969 	TCP 		BitTorrent tracker 	Unofficial
+6970–6999 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+7000 	TCP 		Default for Vuze's built in HTTPS Bittorrent Tracker 	Unofficial
+7000 	TCP 		Avira Server Management Console 	Unofficial
+7001 	TCP 		Avira Server Management Console 	Unofficial
+7001 	TCP 		Default for BEA WebLogic Server's HTTP server, though often changed during installation 	Unofficial
+7002 	TCP 		Default for BEA WebLogic Server's HTTPS server, though often changed during installation 	Unofficial
+7005 	TCP 		Default for BMC Software Control-M/Server and Control-M/Agent for Agent-to-Server, though often changed during installation 	Unofficial
+7006 	TCP 		Default for BMC Software Control-M/Server and Control-M/Agent for Server-to-Agent, though often changed during installation 	Unofficial
+7010 	TCP 		Default for Cisco AON AMC (AON Management Console) [83] 	Unofficial
+7022 	TCP 		Database mirroring endpoints[citation needed] 	Unofficial
+7023 		UDP 	Bryan Wilcutt T2-NMCS Protocol for SatCom Modems 	Official
+7025 	TCP 		Zimbra LMTP [mailbox]—local mail delivery 	Unofficial
+7047 	TCP 		Zimbra conversion server 	Unofficial
+7133 	TCP 		Enemy Territory: Quake Wars 	Unofficial
+7144 	TCP 		Peercast[citation needed] 	Unofficial
+7145 	TCP 		Peercast[citation needed] 	Unofficial
+7171 	TCP 		Tibia 	Unofficial
+7306 	TCP 		Zimbra mysql [mailbox][citation needed] 	Unofficial
+7307 	TCP 		Zimbra mysql [logger][citation needed] 	Unofficial
+7312 		UDP 	Sibelius License Server 	Unofficial
+7396 	TCP 		Web control interface for Folding@home v7.3.6 and later[84] 	Unofficial
+7400 	TCP 	UDP 	RTPS (Real Time Publish Subscribe) DDS Discovery 	Official
+7401 	TCP 	UDP 	RTPS (Real Time Publish Subscribe) DDS User-Traffic 	Official
+7402 	TCP 	UDP 	RTPS (Real Time Publish Subscribe) DDS Meta-Traffic 	Official
+7473 	TCP 	UDP 	Rise: The Vieneo Province 	Official
+7547 	TCP 	UDP 	CPE WAN Management Protocol Technical Report 069 	Official
+7615 	TCP 		ISL Online[85] communication protocol 	Unofficial
+7624 	TCP 	UDP 	Instrument Neutral Distributed Interface 	Official
+7634 	TCP 		hddtemp - Utility to monitor hard drive temperature 	Unofficial
+7652-7654 	TCP 		I2P anonymizing overlay network 	Unofficial
+7655 		UDP 	I2P SAM Bridge Socket API 	Unofficial
+7656-7660 	TCP 		I2P anonymizing overlay network 	Unofficial
+7670 	TCP 		BrettspielWelt BSW Boardgame Portal 	Unofficial
+7676 	TCP 		Aqumin AlphaVision Remote Command Interface[citation needed] 	Unofficial
+7700 		UDP 	P2P DC (RedHub)[citation needed] 	Unofficial
+7707 		UDP 	Killing Floor 	Unofficial
+7708 		UDP 	Killing Floor 	Unofficial
+7717 		UDP 	Killing Floor 	Unofficial
+7777 	TCP 		iChat server file transfer proxy 	Unofficial
+7777 	TCP 		Oracle Cluster File System 2[citation needed] 	Unofficial
+7777 	TCP 		Windows backdoor program tini.exe default[citation needed] 	Unofficial
+7777 	TCP 		Xivio default Chat Server[citation needed] 	Unofficial
+7777 	TCP 		Terraria default server 	Unofficial
+7777 		UDP 	San Andreas Multiplayer default server 	Unofficial
+7778 	TCP 		Bad Trip MUD[citation needed] 	Unofficial
+7777-7788 		UDP 	Unreal Tournament series default server[citation needed] 	Unofficial
+7777-7788 	TCP 		Unreal Tournament series default server[citation needed] 	Unofficial
+7787-7788 	TCP 		GFI EventsManager 7 & 8[citation needed] 	Official
+7831 	TCP 		Default used by Smartlaunch Internet Cafe Administration[86] software 	Unofficial
+7880 	TCP 	UDP 	PowerSchool Gradebook Server[citation needed] 	Unofficial
+7890 	TCP 		Default that will be used by the iControl Internet Cafe Suite Administration software 	Unofficial
+7915 	TCP 		Default for YSFlight server[87] 	Unofficial
+7935 	TCP 		Fixed port used for Adobe Flash Debug Player to communicate with a debugger (Flash IDE, Flex Builder or fdb).[88] 	Unofficial
+7937-9936 	TCP 	UDP 	EMC2 (Legato) Networker or Sun Solstice Backup 	Official
+8000 		UDP 	iRDMI (Intel Remote Desktop Management Interface)[89]—sometimes erroneously used instead of port 8080 	Official
+8000 	TCP 		iRDMI (Intel Remote Desktop Management Interface)[89]—sometimes erroneously used instead of port 8080 	Official
+8000 	TCP 		Commonly used for internet radio streams such as those using SHOUTcast 	Unofficial
+8000 	TCP 		FreemakeVideoCapture service a part of Freemake Video Downloader [90] 	Unofficial
+8000 	TCP 		Nortel Contivity Router Firewall User Authentication (FWUA) default port number 	Unofficial
+8001 	TCP 		Commonly used for internet radio streams such as those using SHOUTcast 	Unofficial
+8002 	TCP 		Cisco Systems Unified Call Manager Intercluster[citation needed] 	Unofficial
+8008 	TCP 		HTTP Alternate 	Official
+8008 	TCP 		IBM HTTP Server administration default 	Unofficial
+8009 	TCP 		ajp13—Apache JServ Protocol AJP Connector 	Unofficial
+8010 	TCP 		XMPP File transfers 	Unofficial
+8011-8013 	TCP 		HTTP/TCP Symon Communications Event and Query Engine[citation needed] 	Unofficial
+8014 	TCP 		HTTP/TCP Symon Communications Event and Query Engine[citation needed] 	Unofficial
+8014 	TCP 	UDP 	Perseus SDR Receiver default remote connection port[citation needed] 	Unofficial
+8020 	TCP 		360Works SuperContainer[91] 	Unofficial
+8042 	TCP 		Orthanc - Default HTTP Port for GUI 	Unofficial
+8069 	TCP 		OpenERP Default HTTP port (web interface and xmlrpc calls) 	Unofficial
+8070 	TCP 		OpenERP Legacy netrpc protocol 	Unofficial
+8074 	TCP 		Gadu-Gadu 	Unofficial
+8075 	TCP 		Killing Floor 	Unofficial
+8078 	TCP 	UDP 	Default port for most Endless Online-based servers[citation needed] 	Unofficial
+8080 	TCP 		HTTP alternate (http_alt)—commonly used for Web proxy and caching server, or for running a Web server as a non-root user 	Official
+8080 	TCP 		Apache Tomcat 	Unofficial
+8080 		UDP 	FilePhile Master/Relay 	Unofficial
+8080 	TCP 		Vermont Systems / RecTrac Vermont Systems RecTrac (WebTrac) network installer 	Unofficial
+8081 	TCP 		HTTP alternate, VibeStreamer, e.g. McAfee ePolicy Orchestrator (ePO) 	Unofficial
+8086 	TCP 		HELM Web Host Automation Windows Control Panel 	Unofficial
+8086 	TCP 		Kaspersky AV Control Center 	Unofficial
+8087 	TCP 		Hosting Accelerator Control Panel 	Unofficial
+8087 	TCP 		Parallels Plesk Control Panel 	Unofficial
+8087 		UDP 	Kaspersky AV Control Center 	Unofficial
+8088 	TCP 		Asterisk (PBX) Web Configuration utility (GUI Addon) 	Unofficial
+8089 	TCP 		Splunk Daemon 	Unofficial
+8090 	TCP 		HTTP Alternate (http_alt_alt)—used as an alternative to port 8080[citation needed] 	Unofficial
+8100 	TCP 		Console Gateway License Verification 	Unofficial
+8111 	TCP 		JOSM Remote Control 	Unofficial
+8116 		UDP 	Check Point Cluster Control Protocol 	Unofficial
+8118 	TCP 		Privoxy—advertisement-filtering Web proxy 	Official
+8123 	TCP 		Polipo Web proxy 	Official
+8123 	TCP 		Bukkit DynMap Default Webserver Bind Address 	Unofficial
+8192 	TCP 		Sophos Remote Management System 	Unofficial
+8193 	TCP 		Sophos Remote Management System 	Unofficial
+8194 	TCP 		Sophos Remote Management System 	Unofficial
+8194 	TCP 		Bloomberg Application[citation needed] 	Unofficial
+8195 	TCP 		Bloomberg Application[citation needed] 	Unofficial
+8200 	TCP 		GoToMyPC 	Unofficial
+8222 	TCP 		VMware Server Management User Interface[92] (insecure Web interface).[93] See also port 8333 	Unofficial
+8243 	TCP 	UDP 	HTTPS listener for Apache Synapse [94] 	Official
+8280 	TCP 	UDP 	HTTP listener for Apache Synapse [94] 	Official
+8291 	TCP 		Winbox—Default on a MikroTik RouterOS for a Windows application used to administer MikroTik RouterOS[citation needed] 	Unofficial
+8303 		UDP 	Teeworlds Server 	Unofficial
+8331 	TCP 		MultiBit, [8] 	Unofficial
+8332 	TCP 		Bitcoin JSON-RPC server[95] 	Unofficial
+8333 	TCP 		Bitcoin[96] 	Unofficial
+8333 	TCP 		VMware Server Management User Interface[92] (secure Web interface).[93] See also port 8222 	Unofficial
+8400 	TCP 	UDP 	cvp, Commvault Unified Data Management 	Official
+8442 	TCP 	UDP 	CyBro A-bus, Cybrotech Ltd. 	Official
+8443 	TCP 		SW Soft Plesk Control Panel, Apache Tomcat SSL, Promise WebPAM SSL, McAfee ePolicy Orchestrator (ePO) 	Unofficial
+8484 	TCP 	UDP 	MapleStory 	Unofficial
+8500 	TCP 	UDP 	ColdFusion Macromedia/Adobe ColdFusion default and Duke Nukem 3D—default 	Unofficial
+8501 	TCP 		[9] DukesterX —default[citation needed] 	Unofficial
+8601 	TCP 		Wavestore CCTV protocol[97] 	Unofficial
+8602 	TCP 	UDP 	Wavestore Notification protocol[97] 	Unofficial
+8642 	TCP 		Lotus Traveller[citation needed] 	Unofficial
+8691 	TCP 		Ultra Fractal default server port for distributing calculations over network computers 	Unofficial
+8701 		UDP 	SoftPerfect Bandwidth Manager 	Unofficial
+8702 		UDP 	SoftPerfect Bandwidth Manager 	Unofficial
+8767 		UDP 	TeamSpeak—default 	Unofficial
+8768 		UDP 	TeamSpeak—alternate 	Unofficial
+8778 	TCP 		EPOS Speech Synthesis System 	Unofficial
+8834 			Nessus web 	Unofficial
+8840 	TCP 		Opera Unite server 	Unofficial
+8880 		UDP 	cddbp-alt, CD DataBase (CDDB) protocol (CDDBP) alternate 	Official
+8880 	TCP 		cddbp-alt, CD DataBase (CDDB) protocol (CDDBP) alternate 	Official
+8880 	TCP 		WebSphere Application Server SOAP connector default 	Unofficial
+8880 	TCP 		Win Media Streamer to Server SOAP connector default 	Unofficial
+8881 	TCP 		Atlasz Informatics Research Ltd Secure Application Server[citation needed] 	Unofficial
+8881 	TCP 		Netflexity Inc QFlex - IBM WebSphere MQ monitoring software. 	Unofficial
+8882 	TCP 		Atlasz Informatics Research Ltd Secure Application Server[citation needed] 	Unofficial
+8883 	TCP 	UDP 	Secure MQ Telemetry Transport (MQTT over SSL) 	Official
+8886 	TCP 		PPM3 (Padtec Management Protocol version 3) 	Unofficial
+8887 	TCP 		HyperVM HTTP 	Official
+8888 	TCP 		HyperVM HTTPS 	Official
+8888 	TCP 		Freenet HTTP 	Unofficial
+8888 	TCP 	UDP 	NewsEDGE server 	Official
+8888 	TCP 		Sun Answerbook dwhttpd server (deprecated by docs.sun.com) 	Unofficial
+8888 	TCP 		GNUmp3d HTTP music streaming and Web interface 	Unofficial
+8888 	TCP 		LoLo Catcher HTTP Web interface (www.optiform.com) 	Unofficial
+8888 	TCP 		D2GS Admin Console Telnet administration console for D2GS servers (Diablo 2) 	Unofficial
+8888 	TCP 		Earthland Relams 2 Server (AU1_2)[citation needed] 	Unofficial
+8888 	TCP 		MAMP Server 	Unofficial
+8889 	TCP 		MAMP Server 	Unofficial
+8889 	TCP 		Earthland Relams 2 Server (AU1_1)[citation needed] 	Unofficial
+8937 	TCP 		Transaction Warehouse Data Service (TWDS) 	Official
+8983 	TCP 		Default for Apache Solr [98] 	Unofficial
+8998 	TCP 		I2P Monotone Repository 	Unofficial
+9000 	TCP 		Buffalo LinkSystem Web access[citation needed] 	Unofficial
+9000 	TCP 		DBGp 	Unofficial
+9000 	TCP 		SqueezeCenter web server & streaming 	Unofficial
+9000 		UDP 	UDPCast 	Unofficial
+9000 	TCP 		Play! Framework web server[citation needed] 	Unofficial
+9001 	TCP 	UDP 	ETL Service Manager[99] 	Official
+9001 			Microsoft SharePoint authoring environment 	Unofficial
+9001 			cisco-xremote router configuration[citation needed] 	Unofficial
+9001 			Tor network default 	Unofficial
+9001 	TCP 		DBGp Proxy 	Unofficial
+9001 	TCP 		HSQLDB default port 	Unofficial
+9009 	TCP 	UDP 	Pichat Server—Peer to peer chat software 	Official
+9010 	TCP 		TISERVICEMANAGEMENT Numara Track-It! 	Unofficial
+9020 	TCP 		WiT WiT Services 	Official
+9025 	TCP 		WiT WiT Services 	Official
+9030 	TCP 		Tor often used 	Unofficial
+9043 	TCP 		WebSphere Application Server Administration Console secure 	Unofficial
+9050 	TCP 		Tor 	Unofficial
+9051 	TCP 		Tor 	Unofficial
+9060 	TCP 		WebSphere Application Server Administration Console 	Unofficial
+9080 		UDP 	glrpc, Groove Collaboration software GLRPC 	Official
+9080 	TCP 		glrpc, Groove Collaboration software GLRPC 	Official
+9080 	TCP 		WebSphere Application Server HTTP Transport (port 1) default 	Unofficial
+9090 	TCP 	UDP 	WebSM 	Unofficial
+9090 	TCP 		Webwasher, Secure Web, McAfee Web Gateway - Default Proxy Port[citation needed] 	Unofficial
+9090 	TCP 		Openfire Administration Console 	Unofficial
+9090 	TCP 		SqueezeCenter control (CLI) 	Unofficial
+9091 	TCP 		Openfire Administration Console (SSL Secured) 	Unofficial
+9091 	TCP 		Transmission (BitTorrent client) Web Interface 	Unofficial
+9100 	TCP 		PDL Data Stream 	Official
+9101 	TCP 	UDP 	Bacula Director 	Official
+9102 	TCP 	UDP 	Bacula File Daemon 	Official
+9103 	TCP 	UDP 	Bacula Storage Daemon 	Official
+9105 	TCP 	UDP 	Xadmin Control Daemon 	Official
+9106 	TCP 	UDP 	Astergate Control Daemon 	Official
+9107 	TCP 		Astergate-FAX Control Daemon 	Official
+9110 		UDP 	SSMP Message protocol 	Unofficial
+9119 	TCP 	UDP 	MXit Instant Messenger 	Official
+9191 	TCP 		Catamount Software - PocketMoney Sync[citation needed] 	Unofficial
+9199 	TCP 		Avtex LLC - qStats 	Unofficial
+9293 	TCP 		Sony PlayStation RemotePlay[100] 	Unofficial
+9300 	TCP 		IBM Cognos 8 SOAP Business Intelligence and Performance Management 	Unofficial
+9303 		UDP 	D-Link Shareport Share storage and MFP printers 	Unofficial
+9309 	TCP 	UDP 	Sony PlayStation Vita Host Collaboration WiFi Data Transfer[101] 	Unofficial
+9306 	TCP 		Sphinx Native API 	Official
+9312 	TCP 		Sphinx SphinxQL 	Official
+9418 	TCP 	UDP 	git, Git pack transfer service 	Official
+9420 	TCP 		MooseFS distributed file system—master server to chunk servers 	Unofficial
+9421 	TCP 		MooseFS distributed file system—master server to clients 	Unofficial
+9422 	TCP 		MooseFS distributed file system—chunk servers to clients 	Unofficial
+9535 	TCP 	UDP 	mngsuite, LANDesk Management Suite Remote Control 	Official
+9536 	TCP 	UDP 	laes-bf, IP Fabrics Surveillance buffering function 	Official
+9600 		UDP 	Omron FINS, OMRON FINS PLC communication 	Official
+9675 	TCP 	UDP 	Spiceworks Desktop, IT Helpdesk Software 	Unofficial
+9676 	TCP 	UDP 	Spiceworks Desktop, IT Helpdesk Software 	Unofficial
+9695 		UDP 	CCNx 	Official
+9800 	TCP 	UDP 	WebDAV Source 	Official
+9800 			WebCT e-learning portal 	Unofficial
+9875 	TCP 		Club Penguin Disney online game for kids 	Unofficial
+9898 		UDP 	MonkeyCom[citation needed] 	Official
+9898 	TCP 		MonkeyCom[citation needed] 	Official
+9898 	TCP 		Tripwire—File Integrity Monitoring Software[citation needed] 	Unofficial
+9987 		UDP 	TeamSpeak 3 server default (voice) port (for the conflicting service see the IANA list) 	Unofficial
+9996 	TCP 	UDP 	Ryan's App "Ryan's App" Trading Software 	Official
+9996 	TCP 	UDP 	The Palace "The Palace" Virtual Reality Chat software.—5 	Official
+9998 	TCP 	UDP 	The Palace "The Palace" Virtual Reality Chat software.—5 	Official
+9999 			Hydranode—edonkey2000 TELNET control 	Unofficial
+9999 	TCP 		Lantronix UDS-10/UDS100[102] RS-485 to Ethernet Converter TELNET control 	Unofficial
+9999 			Urchin Web Analytics[citation needed] 	Unofficial
+10000 			Webmin—Web-based administration tool for Unix-like systems 	Unofficial
+10000 			BackupExec 	Unofficial
+10000 			Ericsson Account Manager (avim)[citation needed] 	Unofficial
+10001 	TCP 		Lantronix UDS-10/UDS100[103] RS-485 to Ethernet Converter default 	Unofficial
+10008 	TCP 	UDP 	Octopus Multiplexer, primary port for the CROMP protocol, which provides a platform-independent means for communication of objects across a network 	Official
+10009 	TCP 	UDP 	Cross Fire, a multiplayer online First Person Shooter[citation needed] 	Unofficial
+10010 	TCP 		Open Object Rexx (ooRexx) rxapi daemon 	Official
+10017 			AIX,NeXT, HPUX—rexd daemon control[citation needed] 	Unofficial
+10024 	TCP 		Zimbra smtp [mta]—to amavis from postfix[citation needed] 	Unofficial
+10025 	TCP 		Zimbra smtp [mta]—back to postfix from amavis[citation needed] 	Unofficial
+10050 	TCP 	UDP 	Zabbix-Agent 	Official
+10051 	TCP 	UDP 	Zabbix-Trapper 	Official
+10110 	TCP 	UDP 	NMEA 0183 Navigational Data. Transport of NMEA 0183 sentences over TCP or UDP 	Official
+10113 	TCP 	UDP 	NetIQ Endpoint 	Official
+10114 	TCP 	UDP 	NetIQ Qcheck 	Official
+10115 	TCP 	UDP 	NetIQ Endpoint 	Official
+10116 	TCP 	UDP 	NetIQ VoIP Assessor 	Official
+10172 	TCP 		Intuit Quickbooks client 	Unofficial
+10200 	TCP 		FRISK Software International's fpscand virus scanning daemon for Unix platforms [104] 	Unofficial
+10200 	TCP 		FRISK Software International's f-protd virus scanning daemon for Unix platforms [105] 	Unofficial
+10201–10204 	TCP 		FRISK Software International's f-protd virus scanning daemon for Unix platforms [105] 	Unofficial
+10301 	TCP 		VoiceIP-ACS UMP default device provisioning endpoint[citation needed] 	Unofficial
+10302 	TCP 		VoiceIP-ACS UMP default device provisioning endpoint (SSL)[citation needed] 	Unofficial
+10308 			Lock-on: Modern Air Combat[citation needed] 	Unofficial
+10480 			SWAT 4 Dedicated Server[citation needed] 	Unofficial
+10823 		UDP 	Farming Simulator 2011 Default Server[citation needed] 	Unofficial
+10891 	TCP 		Jungle Disk (this port is opened by the Jungle Disk Monitor service on the localhost)[citation needed] 	Unofficial
+11001 	TCP 	UDP 	metasys ( Johnson Controls Metasys java AC control environment )[citation needed] 	Unofficial
+11112 	TCP 	UDP 	ACR/NEMA Digital Imaging and Communications in Medicine (DICOM) 	Official
+11155 	TCP 	UDP 	Tunngle 	Unofficial
+11211 	TCP 	UDP 	memcached 	Unofficial
+11235 			Savage:Battle for Newerth Server Hosting[citation needed] 	Unofficial
+11294 			Blood Quest Online Server[citation needed] 	Unofficial
+11371 			OpenPGP HTTP key server 	Official
+11576 			IPStor Server management communication 	Unofficial
+12010 	TCP 		ElevateDB default database port [106] 	Unofficial
+12011 	TCP 		Axence nVision [56] 	Unofficial
+12012 	TCP 		Axence nVision [56] 	Unofficial
+12012 	TCP 		Audition Online Dance Battle, Korea Server—Status/Version Check 	Unofficial
+12012 		UDP 	Audition Online Dance Battle, Korea Server—Status/Version Check 	Unofficial
+12013 	TCP 	UDP 	Audition Online Dance Battle, Korea Server 	Unofficial
+12035 		UDP 	Linden Lab viewer to sim on SecondLife[citation needed] 	Unofficial
+12201 		UDP 	GELF Protocol 	Unofficial
+12222 		UDP 	Light Weight Access Point Protocol (LWAPP) LWAPP data (RFC 5412) 	Official
+12223 		UDP 	Light Weight Access Point Protocol (LWAPP) LWAPP control (RFC 5412) 	Official
+12345 			NetBus—remote administration tool (often Trojan horse). Also used by NetBuster. Little Fighter 2 (TCP). 	Unofficial
+12489 	TCP 		NSClient/NSClient++/NC_Net (Nagios) 	Unofficial
+12975 	TCP 		LogMeIn Hamachi (VPN tunnel software; also port 32976)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect 	Unofficial
+12998–12999 		UDP 	Takenaka RDI Mirror World on SecondLife[citation needed] 	Unofficial
+13000–13050 		UDP 	Linden Lab viewer to sim on SecondLife[citation needed] 	Unofficial
+13008 	TCP 	UDP 	Cross Fire, a multiplayer online First Person Shooter[citation needed] 	Unofficial
+13075 	TCP 		Default[107] for BMC Software Control-M/Enterprise Manager Corba communication, though often changed during installation 	Official
+13195-13196 	TCP 	UDP 	Ontolux Ontolux 2D 	Unofficial
+13337-13340 	TCP 	UDP 	ÆtherNet peer-to-peer networking[citation needed] 	Unofficial
+13720 	TCP 	UDP 	Symantec NetBackup—bprd (formerly VERITAS) 	Official
+13721 	TCP 	UDP 	Symantec NetBackup—bpdbm (formerly VERITAS) 	Official
+13724 	TCP 	UDP 	Symantec Network Utility—vnetd (formerly VERITAS) 	Official
+13782 	TCP 	UDP 	Symantec NetBackup—bpcd (formerly VERITAS) 	Official
+13783 	TCP 	UDP 	Symantec VOPIED protocol (formerly VERITAS) 	Official
+13785 	TCP 	UDP 	Symantec NetBackup Database—nbdb (formerly VERITAS) 	Official
+13786 	TCP 	UDP 	Symantec nomdb (formerly VERITAS) 	Official
+14439 	TCP 		APRS UI-View Amateur Radio[108] UI-WebServer 	Unofficial
+14567 		UDP 	Battlefield 1942 and mods 	Unofficial
+14900 	TCP 		K3 SYSPRO K3 Framework WCF Backbone[citation needed] 	Unofficial
+15000 	TCP 		psyBNC 	Unofficial
+15000 	TCP 		Wesnoth 	Unofficial
+15000 	TCP 		Kaspersky Network Agent[citation needed] 	Unofficial
+15000 	TCP 		hydap, Hypack Hydrographic Software Packages Data Acquisition 	Official
+15000 		UDP 	hydap, Hypack Hydrographic Software Packages Data Acquisition 	Official
+15556 	TCP 	UDP 	Jeex.EU Artesia (direct client-to-db.service) 	Unofficial
+15567 		UDP 	Battlefield Vietnam and mods 	Unofficial
+15345 	TCP 	UDP 	XPilot Contact 	Official
+16000 	TCP 		shroudBNC 	Unofficial
+16080 	TCP 		Mac OS X Server Web (HTTP) service with performance cache[109] 	Unofficial
+16200 	TCP 		Oracle Universal Content Management Content Server 	Unofficial
+16250 	TCP 		Oracle Universal Content Management Inbound Refinery 	Unofficial
+16384 		UDP 	Iron Mountain Digital online backup[citation needed] 	Unofficial
+16567 		UDP 	Battlefield 2 and mods 	Unofficial
+17500 	TCP 	UDP 	Dropbox LanSync Protocol (db-lsp); used to synchronize file catalogs between Dropbox clients on your local network. 	Official
+18010 	TCP 		Super Dancer Online Extreme(SDO-X)—CiB Net Station Malaysia Server[citation needed] 	Unofficial
+18104 	TCP 		RAD PDF Service 	Official
+18180 	TCP 		DART Reporting server[citation needed] 	Unofficial
+18200 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft Thailand Server—Status/Version Check 	Unofficial
+18201 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft Thailand Server 	Unofficial
+18206 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft Thailand Server—FAM Database 	Unofficial
+18300 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft SEA Server—Status/Version Check 	Unofficial
+18301 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft SEA Server 	Unofficial
+18306 	TCP 	UDP 	Audition Online Dance Battle, AsiaSoft SEA Server—FAM Database 	Unofficial
+18333 	TCP 		Bitcoin testnet[96] 	Unofficial
+18400 	TCP 	UDP 	Audition Online Dance Battle, KAIZEN Brazil Server—Status/Version Check 	Unofficial
+18401 	TCP 	UDP 	Audition Online Dance Battle, KAIZEN Brazil Server 	Unofficial
+18505 	TCP 	UDP 	Audition Online Dance Battle R4p3 Server, Nexon Server—Status/Version Check 	Unofficial R4p3 Server
+18506 	TCP 	UDP 	Audition Online Dance Battle, Nexon Server 	Unofficial
+18605 	TCP 	UDP 	X-BEAT—Status/Version Check 	Unofficial
+18606 	TCP 	UDP 	X-BEAT 	Unofficial
+19000 	TCP 	UDP 	Audition Online Dance Battle, G10/alaplaya Server—Status/Version Check 	Unofficial
+19000 		UDP 	JACK sound server 	Unofficial
+19001 	TCP 	UDP 	Audition Online Dance Battle, G10/alaplaya Server 	Unofficial
+19150 	TCP 	UDP 	Gkrellm Server 	Unofficial
+19226 	TCP 		Panda Software AdminSecure Communication Agent 	Unofficial
+19283 	TCP 	UDP 	K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools 	Official
+19294 	TCP 		Google Talk Voice and Video connections [110] 	Unofficial
+19295 		UDP 	Google Talk Voice and Video connections [110] 	Unofficial
+19302 		UDP 	Google Talk Voice and Video connections [110] 	Unofficial
+19315 	TCP 	UDP 	KeyShadow for K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools 	Official
+19540 	TCP 	UDP 	Belkin Network USB Hub[citation needed] 	Unofficial
+19638 	TCP 		Ensim Control Panel[citation needed] 	Unofficial
+19812 	TCP 		4D database SQL Communication[citation needed] 	Unofficial
+19813 	TCP 		4D database Client Server Communication[citation needed] 	Unofficial
+19814 	TCP 		4D database DB4D Communication[citation needed] 	Unofficial
+19999 			DNP - Secure (Distributed Network Protocol - Secure), a secure version of the protocol used in SCADA systems between communicating RTU's and IED's 	Official
+20000 			DNP (Distributed Network Protocol), a protocol used in SCADA systems between communicating RTU's and IED's 	Official
+20000 			Usermin, Web-based user tool 	Unofficial
+20014 	TCP 		DART Reporting server[citation needed] 	Unofficial
+20560 	TCP 	UDP 	Killing Floor 	Unofficial
+20702 	TCP 		Precise TPM Listener Agent 	Unofficial
+20720 	TCP 		Symantec i3 Web GUI server 	Unofficial
+20790 	TCP 		Precise TPM Web GUI server 	Unofficial
+21001 	TCP 		AMLFilter, AMLFilter Inc. amlf-admin default port 	Unofficial
+21011 	TCP 		AMLFilter, AMLFilter Inc. amlf-engine-01 default http port 	Unofficial
+21012 	TCP 		AMLFilter, AMLFilter Inc. amlf-engine-01 default https port 	Unofficial
+21021 	TCP 		AMLFilter, AMLFilter Inc. amlf-engine-02 default http port 	Unofficial
+21022 	TCP 		AMLFilter, AMLFilter Inc. amlf-engine-02 default https port 	Unofficial
+22136 	TCP 		FLIR Systems Camera Resource Protocol 	Unofficial
+22222 	TCP 		Davis Instruments, WeatherLink IP 	Unofficial
+22347 	TCP 	UDP 	WibuKey, WIBU-SYSTEMS AG Software protection system 	Official
+22349 	TCP 		Wolfson Microelectronics WISCEBridge Debug Protocol[111] 	Unofficial
+22350 	TCP 	UDP 	CodeMeter, WIBU-SYSTEMS AG Software protection system 	Official
+23073 			Soldat Dedicated Server 	Unofficial
+23399 			Skype Default Protocol 	Unofficial
+23513 			Duke Nukem 3D#Source code Duke Nukem Ports 	Unofficial
+24444 			NetBeans integrated development environment 	Unofficial
+24465 	TCP 	UDP 	Tonido Directory Server for Tonido which is a Personal Web App and P2P platform 	Official
+24554 	TCP 	UDP 	BINKP, Fidonet mail transfers over TCP/IP 	Official
+24800 			Synergy: keyboard/mouse sharing software 	Unofficial
+24842 			StepMania: Online: Dance Dance Revolution Simulator 	Unofficial
+25000 	TCP 		Teamware Office standard client connection 	Official
+25003 	TCP 		Teamware Office client notifier 	Official
+25005 	TCP 		Teamware Office message transfer 	Official
+25007 	TCP 		Teamware Office MIME Connector 	Official
+25010 	TCP 		Teamware Office Agent server 	Official
+25560 	TCP 		codeheart.js Relay Server 	Unofficial
+25565 	TCP 		Standard Minecraft (Dedicated) Server 	Unofficial
+25565 			MySQL Standard MySQL port 	Unofficial
+25570 			Manic Digger default single player port 	Unofficial
+25826 		UDP 	collectd default port[112] 	Unofficial
+25888 		UDP 	Xfire (Firewall Report, UDP_IN) IP Address (206.220.40.146) resolves to gameservertracking.xfire.com. Use unknown. 	Unofficial
+25999 	TCP 		Xfire 	Unofficial
+26000 		UDP 	id Software's Quake server 	Official
+26000 	TCP 		id Software's Quake server 	Official
+26000 	TCP 		CCP's EVE Online Online gaming MMORPG 	Unofficial
+26850 	TCP 		War of No Return Server Port[citation needed] 	Unofficial
+26900 	TCP 		CCP's EVE Online Online gaming MMORPG 	Unofficial
+26901 	TCP 		CCP's EVE Online Online gaming MMORPG 	Unofficial
+27000-27030 		UDP 	Steam Client 	Unofficial
+27000 		UDP 	(through 27006) id Software's QuakeWorld master server 	Unofficial
+27000-27009 	TCP 		FlexNet Publisher's License server (from the range of default ports) 	Unofficial
+27010 			Source engine dedicated server port 	Unofficial
+27014-27050 	TCP 		Steam Downloads 	Unofficial
+27014 			Source engine dedicated server port (rare) 	Unofficial
+27015 			GoldSrc and Source engine dedicated server port 	Unofficial
+27016 			Magicka server port 	Unofficial
+27017 			mongoDB server port 	Unofficial
+27374 			Sub7 default. 	Unofficial
+27500-27900 		UDP 	id Software's QuakeWorld 	Unofficial
+27888 		UDP 	Kaillera server 	Unofficial
+27900-27901 			Nintendo Wi-Fi Connection 	Unofficial
+27901-27910 		UDP 	id Software's Quake II master server 	Unofficial
+27950 		UDP 	OpenArena outgoing 	Unofficial
+27960-27969 		UDP 	Activision's Enemy Territory and id Software's Quake III Arena, Quake III and Quake Live and some ioquake3 derived games (OpenArena incoming) 	Unofficial
+28000 			Bitfighter Common/default Bitfighter Server 	Unofficial
+28001 			Starsiege: Tribes Common/default Tribes v.1 Server 	Unofficial
+28395 	TCP 		www.SmartSystemsLLC.com Used by Smart Sale 5.0[citation needed] 	Unofficial
+28785 		UDP 	Cube 2 Sauerbraten[113] 	Unofficial
+28786 		UDP 	Cube 2 Sauerbraten Port 2[113] 	Unofficial
+28852 	TCP 	UDP 	Killing Floor 	Unofficial
+28910 			Nintendo Wi-Fi Connection[114] 	Unofficial
+28960 		UDP 	Call of Duty; Call of Duty: United Offensive; Call of Duty 2; Call of Duty 4: Modern Warfare; Call of Duty: World at War (PC Version) 	Unofficial
+29000 			Perfect World International Used by the Perfect World International Client 	Unofficial
+29070 	TCP 	UDP 	Game titled "Jedi Knight: Jedi Academy" by Ravensoft 	Unofficial
+29292 	TCP 		TMO Integration Service Communications Port, Used by Transaction Manager SaaS (HighJump Software)[citation needed] 	Unofficial
+29900-29901 			Nintendo Wi-Fi Connection[114] 	Unofficial
+29920 			Nintendo Wi-Fi Connection[114] 	Unofficial
+30000 			Pokémon Netbattle 	Unofficial
+30301 			BitTorrent 	Unofficial
+30564 	TCP 		Multiplicity: keyboard/mouse/clipboard sharing software 	Unofficial
+30718 		UDP 	Lantronix Discovery for Lantronix serial-to-ethernet devices 	Unofficial
+30777 	TCP 		ZangZing agent 	Unofficial
+31314 	TCP 		electric imp node<>server communication (TLS) 	Unofficial
+31337 	TCP 		Back Orifice—remote administration tool (often Trojan horse) 	Unofficial
+31415 			ThoughtSignal—Server Communication Service (often Informational) 	Unofficial
+31456 	TCP 		TetriNET IRC gateway on some servers 	Unofficial
+31457 	TCP 		TetriNET 	Official
+31458 	TCP 		TetriNET Used for game spectators 	Unofficial
+31620 	TCP 	UDP 	LM-MON (Standard Floating License Manager LM-MON) 	Official
+32123 	TCP 		x3Lobby Used by x3Lobby, an internet application. 	Unofficial
+32137 	TCP 	UDP 	Immunet Protect (UDP in version 2.0[115], TCP since version 3.0[116]) 	Unofficial
+32245 	TCP 		MMTSG-mutualed over MMT (encrypted transmission) 	Unofficial
+32769 	TCP 		FileNet RPC 	Unofficial
+32887 	TCP 		Used by "Ace of Spades" game 	Unofficial
+32976 	TCP 		LogMeIn Hamachi (VPN tunnel software; also port 12975)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect 	Unofficial
+33434 	TCP 	UDP 	traceroute 	Official
+33982 	TCP 	UDP 	Dezta software 	Unofficial
+34443 			Linksys PSUS4 print server[citation needed] 	Unofficial
+34567 	TCP 		EDI service[117] 	Official
+36330 	TCP 		Folding@home v7 default for client control interface 	Unofficial
+36963 		UDP 	Any of the USGN online games, most notably Counter Strike 2D multiplayer (2D clone of popular CounterStrike computer game) 	Unofficial
+37659 	TCP 		Axence nVision[citation needed] 	Unofficial
+37777 	TCP 		Digital Video Recorder hardware[citation needed] 	Unofficial
+40000 	TCP 	UDP 	SafetyNET p Real-time Industrial Ethernet protocol 	Official
+40123 		UDP 	Flatcast[118] 	Unofficial
+41823 	TCP 	UDP 	Murealm Client[citation needed] 	Unofficial
+43047 	TCP 		TheòsMessenger second port for service TheòsMessenger[citation needed] 	Official
+43034 	TCP 	UDP 	LarmX.com™ database update mtr port[citation needed] 	Unofficial
+43048 	TCP 		TheòsMessenger third port for service TheòsMessenger[citation needed] 	Official
+43594 	TCP 		RuneScape, FunOrb, Runescape Private Servers game servers 	Unofficial
+43595 	TCP 		RuneScape JAGGRAB servers 	Unofficial
+45824 	TCP 		Server for the DAI family of client-server products[citation needed] 	Official
+47001 	TCP 		WinRM - Windows Remote Management Service [119] 	Official
+47808 	TCP 	UDP 	BACnet Building Automation and Control Networks (4780810 = BAC016) 	Official
+49151 	TCP 	UDP 	Reserved[1] 	Official
+44405 	TCP 		Mu Online Connect Server 	Unofficial
+55901 	TCP 		Mu Online Game Server 	Unofficial
