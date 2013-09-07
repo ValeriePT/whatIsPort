@@ -2,7 +2,6 @@
 # -*- coding:UTF-8 -*-
 
 import os
-from sys import argv
 import csv
 import optparse
 
@@ -62,7 +61,6 @@ def main():
 		print parser.usage
 		exit(0)
 
-	# script, protocol, search = argv	
 	tcp_ports, udp_ports = readPorts()
 	port_is_number = True
 	try:
