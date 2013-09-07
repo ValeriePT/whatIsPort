@@ -1,9 +1,10 @@
-#!/bin/python
+#!/usr/bin/env python
 # -*- coding:UTF-8 -*-
 
 import os
 from sys import argv
 import csv
+import optparse
 
 def readPorts():
 	tcp_ports = {}
@@ -19,20 +20,20 @@ def readPorts():
 					udp_port = {port.strip(): descr.strip()}
 					udp_ports.update(udp_port)
 	except Exception, e:	
-		print "[-] Erro ao ler ficheiro all_ports.csv: " + str(e) 
+		print "[-] Error reading file all_ports.csv: " + str(e) 
 	return tcp_ports, udp_ports
 
 def getPort(protocol, port, all_tcp_ports, all_udp_ports):
 	if protocol.upper() == 'TCP' or protocol.upper() == 'ALL':
 		try:
-			print '[+] Porta TCP %s: %s'  % (port, all_tcp_ports[str(port)])
+			print '[+] TCP/%s: %s'  % (port, all_tcp_ports[str(port)])
 		except Exception, e:
-			print '[-] Porta %s TCP não atribuida a nenhum serviço.' % (port)
+			print '[-] TCP/%s not found.' % (port)
 	if protocol.upper() == 'UDP' or protocol.upper() == 'ALL': 
 		try:
-			print '[+] Porta UDP %s: %s'  % (port, all_udp_ports[str(port)])
+			print '[+] UDP/%s: %s'  % (port, all_udp_ports[str(port)])
 		except Exception, e:
-			print '[-] Porta %s UDP não atribuida a nenhum serviço.' % (port)
+			print '[-] UDP/%s not found.' % (port)
 
 def getPortsByDescr(descr, search_ports):
 	filtered_ports = list(k for k,v in search_ports.iteritems() if descr.upper() in v.upper())
@@ -51,7 +52,17 @@ def searchDescr(protocol, descr, all_tcp_ports, all_udp_ports):
 			getPort(protocol, port, all_tcp_ports, all_udp_ports) 
 
 def main():
-	script, protocol, search = argv	
+	parser = optparse.OptionParser(usage = '%prog -p <protocol type> -s <search string>')
+	parser.add_option('-p', dest='protocol', type='string', help='specify protocol: TCP, UDP, ALL')
+	parser.add_option('-s', dest='search', type='string', help='specify search string or port number')
+	(options, args) = parser.parse_args()
+	protocol = options.protocol
+	search = options.search
+	if (protocol == None) | (search == None):
+		print parser.usage
+		exit(0)
+
+	# script, protocol, search = argv	
 	tcp_ports, udp_ports = readPorts()
 	port_is_number = True
 	try:
