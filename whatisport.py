@@ -43,12 +43,12 @@ def searchDescr(protocol, descr, all_tcp_ports, all_udp_ports):
 		matched_tcp_ports = getPortsByDescr(descr, all_tcp_ports)
 		#print matched_tcp_ports
 		for port in matched_tcp_ports:
-			getPort(protocol, port, all_tcp_ports, all_udp_ports) 
+			print '[+] TCP/%s: %s'  % (port, all_tcp_ports[str(port)])
 	if protocol.upper() == "UDP" or protocol.upper() == "ALL":
 		matched_udp_ports = getPortsByDescr(descr, all_udp_ports)
 		#print matched_udp_ports
 		for port in matched_udp_ports:
-			getPort(protocol, port, all_tcp_ports, all_udp_ports) 
+			print '[+] UDP/%s: %s'  % (port, all_udp_ports[str(port)])
 
 def main():
 	parser = optparse.OptionParser(usage = '%prog -p <protocol type> -s <search string>')
