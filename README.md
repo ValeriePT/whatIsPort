@@ -7,24 +7,26 @@ The ports are based on wikipedia TCP and UDP ports list @ http://en.wikipedia.or
 
 Usage
 =====
-python whatisport.py \<type\> \<port/descr\>
+python whatisport.py -p \<protocol type\> -s \<search string\>
 
 Usable types:
   TCP
   UDP
   ALL
 
-port/descr:
+search string:
   use a port number 1-65535
   or 
   use service description
 
+you can have this help using 'python whatisport.py -h'
+
 EXAMPLES
 ========
-  python whatisport.py TCP FTP
+  python whatisport.py -p TCP -s FTP
   
-  python whatisport.py UDP 123
+  python whatisport.py -p UDP -s 123
   
-  python whatisport.py ALL NTP
+  python whatisport.py -p ALL -s NTP
   
-  python whatisport.py ALL 25
+  python whatisport.py .p ALL -s 25
