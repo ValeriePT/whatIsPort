@@ -29,4 +29,4 @@ EXAMPLES
   
   python whatisport.py -p ALL -s NTP
   
-  python whatisport.py .p ALL -s 25
+  python whatisport.py -p ALL -s 25
