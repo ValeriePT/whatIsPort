@@ -51,7 +51,7 @@ def searchDescr(protocol, descr, all_tcp_ports, all_udp_ports):
 			print '[+] UDP/%s: %s'  % (port, all_udp_ports[str(port)])
 
 def main():
-	parser = optparse.OptionParser(usage = '%prog -p <protocol type> -s <search string>')
+	parser = optparse.OptionParser(usage = '%prog -p <protocol type> -s <search string>', description = "whatisport? baby don't hurt me, don't hurt me, no more!")
 	parser.add_option('-p', dest='protocol', type='string', help='specify protocol: TCP, UDP, ALL')
 	parser.add_option('-s', dest='search', type='string', help='specify search string or port number')
 	(options, args) = parser.parse_args()
