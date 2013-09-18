@@ -12,10 +12,10 @@ def readPorts():
 		with open('all_ports.csv', 'r') as fx:
 			line = csv.reader(fx, delimiter='\t')
 			for port, tcp, udp, descr, official in line:
-				if tcp:#.strip() == 'TCP':
+				if tcp:
 					tcp_port = {port.strip(): descr.strip()}
 					tcp_ports.update(tcp_port)
-				if udp:#.strip() == 'UDP':
+				if udp:
 					udp_port = {port.strip(): descr.strip()}
 					udp_ports.update(udp_port)
 	except Exception, e:	
@@ -26,12 +26,29 @@ def getPort(protocol, port, all_tcp_ports, all_udp_ports):
 	if protocol.upper() == 'TCP' or protocol.upper() == 'ALL':
 		try:
 			print '[+] TCP/%s: %s'  % (port, all_tcp_ports[str(port)])
-		except Exception, e:
+		except:
+			for cur_port in all_tcp_ports:
+				if "-" in cur_port:
+					print cur_port
+					limits = cur_port.split("-", 2)
+					print limits
+					if port >= limits[0] and port <= limits[1]:
+						print '[+] TCP/%s: %s'  % (cur_port, all_tcp_ports[str(cur_port)])
+						break
+		else:
 			print '[-] TCP/%s not found.' % (port)
 	if protocol.upper() == 'UDP' or protocol.upper() == 'ALL': 
 		try:
 			print '[+] UDP/%s: %s'  % (port, all_udp_ports[str(port)])
-		except Exception, e:
+		except:
+			for cur_port in all_udp_ports:
+				if "-" in cur_port:
+					limits = cur_port.split("-", 1)
+					print limits
+					if port >= limits[0] and port <= limits[1]:
+						print '[+] UDP/%s: %s'  % (cur_port, all_udp_ports[str(cur_port)])
+						break
+		else:
 			print '[-] UDP/%s not found.' % (port)
 
 def getPortsByDescr(descr, search_ports):
