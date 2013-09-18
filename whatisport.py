@@ -29,9 +29,7 @@ def getPort(protocol, port, all_tcp_ports, all_udp_ports):
 		except:
 			for cur_port in all_tcp_ports:
 				if "-" in cur_port:
-					print cur_port
 					limits = cur_port.split("-", 2)
-					print limits
 					if port >= limits[0] and port <= limits[1]:
 						print '[+] TCP/%s: %s'  % (cur_port, all_tcp_ports[str(cur_port)])
 						break
@@ -44,7 +42,6 @@ def getPort(protocol, port, all_tcp_ports, all_udp_ports):
 			for cur_port in all_udp_ports:
 				if "-" in cur_port:
 					limits = cur_port.split("-", 1)
-					print limits
 					if port >= limits[0] and port <= limits[1]:
 						print '[+] UDP/%s: %s'  % (cur_port, all_udp_ports[str(cur_port)])
 						break
