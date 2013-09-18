@@ -348,7 +348,7 @@
 1761 		UDP 	cft-0 	Official
 1761 	TCP 		cft-0 	Official
 1761 	TCP 		Novell Zenworks Remote Control utility 	Unofficial
-1762–1768 	TCP 	UDP 	cft-1 to cft-7 	Official
+1762-1768 	TCP 	UDP 	cft-1 to cft-7 	Official
 1776 	TCP 	UDP 	Federal Emergency Management Information SystemTemplate:Http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml 	Official
 1792 	TCP 	UDP 	Moby[citation needed] 	Unofficial
 1801 	TCP 	UDP 	Microsoft Message Queuing 	Official
@@ -365,7 +365,7 @@
 1970 	TCP 	UDP 	Netop Business Solutions Netop Remote Control 	Official
 1971 	TCP 	UDP 	Netop Business Solutions Netop School 	Official
 1972 	TCP 	UDP 	InterSystems Caché 	Official
-1975–1977 		UDP 	Cisco TCO (Documentation) 	Official
+1975-1977 		UDP 	Cisco TCO (Documentation) 	Official
 1984 	TCP 		Big Brother and related Xymon (formerly Hobbit) System and Network Monitor 	Official
 1985 		UDP 	Cisco HSRP 	Official
 1994 	TCP 	UDP 	Cisco STUN-SDLC (Serial Tunneling—Synchronous Data Link Control) protocol 	Official
@@ -466,7 +466,7 @@
 2641 	TCP 	UDP 	HDL Server from CNRI 	Official
 2642 	TCP 	UDP 	Tragic 	Official
 2698 	TCP 	UDP 	Citel / MCK IVPIP 	Official
-2700–2800 	TCP 		KnowShowGo P2P 	Official
+2700-2800 	TCP 		KnowShowGo P2P 	Official
 2710 	TCP 		XBT Tracker 	Unofficial
 2710 		UDP 	XBT Tracker experimental UDP tracker extension 	Unofficial
 2710 	TCP 		Knuddels.de[citation needed] 	Unofficial
@@ -596,7 +596,7 @@
 4534 		UDP 	Armagetron Advanced default server port 	Unofficial
 4567 	TCP 		Sinatra default server port in development mode (HTTP) 	Unofficial
 4569 		UDP 	Inter-Asterisk eXchange (IAX2) 	Official
-4610–4640 	TCP 		QualiSystems TestShell Suite Services 	Unofficial
+4610-4640 	TCP 		QualiSystems TestShell Suite Services 	Unofficial
 4662 		UDP 	OrbitNet Message Service 	Official
 4662 	TCP 		OrbitNet Message Service 	Official
 4662 	TCP 		Default for older versions of eMule[57] 	Unofficial
@@ -781,8 +781,8 @@
 6600 	TCP 		Music Player Daemon (MPD) 	Unofficial
 6619 	TCP 	UDP 	odette-ftps, Odette File Transfer Protocol (OFTP) over TLS/SSL 	Official
 6646 		UDP 	McAfee Network Agent[citation needed] 	Unofficial
-6660–6664 	TCP 		Internet Relay Chat (IRC) 	Unofficial
-6665–6669 	TCP 		Internet Relay Chat (IRC) 	Official
+6660-6664 	TCP 		Internet Relay Chat (IRC) 	Unofficial
+6665-6669 	TCP 		Internet Relay Chat (IRC) 	Official
 6679 	TCP 	UDP 	Osorno Automation Protocol (OSAUT) 	Official
 6679 	TCP 		IRC SSL (Secure Internet Relay Chat)—often used 	Unofficial
 6697 	TCP 		IRC SSL (Secure Internet Relay Chat)—often used 	Unofficial
@@ -792,18 +792,18 @@
 6771 		UDP 	Polycom server broadcast[citation needed] 	Unofficial
 6789 	TCP 		Campbell Scientific Loggernet Software[82] 	Unofficial
 6789 	TCP 		Bucky's Instant Messaging Program 	Unofficial
-6881–6887 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6881-6887 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
 6888 	TCP 	UDP 	MUSE 	Official
 6888 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
-6889–6890 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
-6891–6900 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
-6891–6900 	TCP 	UDP 	Windows Live Messenger (File transfer) 	Unofficial
+6889-6890 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6891-6900 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6891-6900 	TCP 	UDP 	Windows Live Messenger (File transfer) 	Unofficial
 6901 	TCP 	UDP 	Windows Live Messenger (Voice) 	Unofficial
 6901 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
-6902–6968 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6902-6968 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
 6969 	TCP 	UDP 	acmsoda 	Official
 6969 	TCP 		BitTorrent tracker 	Unofficial
-6970–6999 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
+6970-6999 	TCP 	UDP 	BitTorrent part of full range of ports used most often 	Unofficial
 7000 	TCP 		Default for Vuze's built in HTTPS Bittorrent Tracker 	Unofficial
 7000 	TCP 		Avira Server Management Console 	Unofficial
 7001 	TCP 		Avira Server Management Console 	Unofficial
@@ -1042,7 +1042,7 @@
 10172 	TCP 		Intuit Quickbooks client 	Unofficial
 10200 	TCP 		FRISK Software International's fpscand virus scanning daemon for Unix platforms [104] 	Unofficial
 10200 	TCP 		FRISK Software International's f-protd virus scanning daemon for Unix platforms [105] 	Unofficial
-10201–10204 	TCP 		FRISK Software International's f-protd virus scanning daemon for Unix platforms [105] 	Unofficial
+10201-10204 	TCP 		FRISK Software International's f-protd virus scanning daemon for Unix platforms [105] 	Unofficial
 10301 	TCP 		VoiceIP-ACS UMP default device provisioning endpoint[citation needed] 	Unofficial
 10302 	TCP 		VoiceIP-ACS UMP default device provisioning endpoint (SSL)[citation needed] 	Unofficial
 10308 			Lock-on: Modern Air Combat[citation needed] 	Unofficial
@@ -1070,8 +1070,8 @@
 12345 			NetBus—remote administration tool (often Trojan horse). Also used by NetBuster. Little Fighter 2 (TCP). 	Unofficial
 12489 	TCP 		NSClient/NSClient++/NC_Net (Nagios) 	Unofficial
 12975 	TCP 		LogMeIn Hamachi (VPN tunnel software; also port 32976)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect 	Unofficial
-12998–12999 		UDP 	Takenaka RDI Mirror World on SecondLife[citation needed] 	Unofficial
-13000–13050 		UDP 	Linden Lab viewer to sim on SecondLife[citation needed] 	Unofficial
+12998-12999 		UDP 	Takenaka RDI Mirror World on SecondLife[citation needed] 	Unofficial
+13000-13050 		UDP 	Linden Lab viewer to sim on SecondLife[citation needed] 	Unofficial
 13008 	TCP 	UDP 	Cross Fire, a multiplayer online First Person Shooter[citation needed] 	Unofficial
 13075 	TCP 		Default[107] for BMC Software Control-M/Enterprise Manager Corba communication, though often changed during installation 	Official
 13195-13196 	TCP 	UDP 	Ontolux Ontolux 2D 	Unofficial
